@@ -52,3 +52,50 @@
 
  artifact_strangering_name:0 "A Strange Ring"
  artifact_strangering_description:0 "This ring found among the treasure of the nibelungs has a mysterious attraction on the people who surround it. Sometimes at night it glows and I feel like it's whispering in my ear"
+
+ artifact_donatistclub_name:0 "Israel of the Donatist Saints"
+ artifact_donatistclub_description:0 "A circumcellion cudgel reputed to have belonged to one of the Donatist Saints such as Axido or Fasir, this hefty club inspires their fellows with ever greater fervor against their oppressors!"
+ 
+ artifact_telekdagger_name:0 "Telek Wrist-Dagger"
+ artifact_telekdagger_description:0 "This handy dagger was used by Numidian cavalry in the Punic Wars. Worn on the inside of the left forearm, it can be trusted to get its owner out of a tight spot."
+ 
+ artifact_teleksword_name:0 "Telek Wrist-Sword"
+ artifact_teleksword_description:0 "'they (the Barceans, the Berbers of Barca, Cyrenaica) do not carry, like the other warriors, attached to their side, the shield and the threatening sword, but a ring, which surrounds their arm of his circle, squeezes them lightly and they let the scabbard hang from their bare arm.' - Corripus"
+
+ artifact_adarga_name:0 "Adarga"
+ artifact_adarga_description:0 "A light shield made from the skin of old female oryx (antelopes), this North Berber accessory was renowned for its flexibility and was reputed to even have healing properties!"
+
+ artifact_ahrer_name:0 "Ahrer"
+ artifact_ahrer_description:0 "The Ahrer shield was the only defensive weapon of the Tuaregs and was produced by the tribes of Sahel using the skin of ehem (antelope) and in rare cases, giraffes or lions."
+
+ artifact_globa_name:0 "Globa"
+ artifact_globa_description:0 "This lightweight armor used by the Romans and Africans was composed of waterproofed sheep or goat skin and leather shoulder pads."
+
+ artifact_lorica_name:0 "Scale Corselet"
+ artifact_lorica_description:0 "The scale corselet consists of rows of individual leather scales sewn together in lines with each row then layered underneath the adjacent upper level. In general, however, the cuirass would have been most useful against knives, clubs, and the like, rather than any more elite weaponry."
+ artifact_aksumhalberd_name:0 "Crescent Halberd"
+ artifact_aksumhalberd_description:0 "Mostly ceremonial in nature, this halberd has a symbol of the crescent as its head, similar to symbols found on many Aksumite coins."
+
+ artifact_nubianshield_name:0 "Meroitic Heater Shield"
+ artifact_nubianshield_description:0 "Distinguished by their round half top demarcated by concavities on the narrow sides, this shield saw use throughout the Nile Valley."
+
+ artifact_lancehatchet_name:0 "Lance with Hatchet"
+ artifact_lancehatchet_description:0 "A favored weapon in the area surrounding Meroe, this spear came with a small hatchet attached to the side for extra flexibility during combat."
+ 
+ artifact_crocodilehelmet_name:0 "Crocodile Helmet"
+ artifact_crocodilehelmet_description:0 "Made out of crocodile skin and designed to look like the head of the fearsome beast itself, this helmet both signifies the importance of the holder and strikes fear into the hearts of enemies!"
+
+ artifact_crocodilearmor_name:0 "Pangolin Armor"
+ artifact_crocodilearmor_description:0 "Pangolin armor consists of a cloth tunic adorned with the shells of hardnuts, white shorts, and a short raffia skirt around the waist; some of the wearers also adorn themselves with bands around the knees."
+
+ artifact_wickershield_name:0 "Ekpeke Shield"
+ artifact_wickershield_description:0 "Woven together using a weaving style called wicker, these light shields provided ample protection for any warrior."
+
+ artifact_zandeshield_name:0 "Gbilija Shield"
+ artifact_zandeshield_description:0 "Thin and woven closely, this shield was worn by the highest ranks and dignitaries behind the frontlines and was more for show than battle."
+ 
+ artifact_opiasword_name:0 "Opia Sword"
+ artifact_opiasword_description:0 "This sword has a leaf-shaped blade made of iron and brass hilt with a central rib from hilt to midway. It was traditionally decorated on the front and back sides as well as the lower section of the blade with interlaces and geometric patterns."
+
+ artifact_crocodilearmorreal_name:0 "Crocodile Armor"
+ artifact_crocodilearmorreal_description:0 "Crocodile skin is carefully crafted to provide a protective shell for either a warrior of great renown, or a person of high status."

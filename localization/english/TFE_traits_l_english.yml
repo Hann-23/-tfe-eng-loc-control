@@ -5,7 +5,7 @@
  trait_blue_support_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is an ardent supporter of the Blues chariot racing team."
  
  trait_restitutor_orbis:0 "Restitutor Orbis"
- trait_restitutor_orbis_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has successfully reasserted the disparate holdings of Rome under one crown, one empire."
+ trait_restitutor_orbis_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has successfully reasserted the disparate holdings of Rome under one crown and one empire."
  
  trait_sahabi_trait:0 "Sahabi"
  trait_sahabi_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has been at the Prophet's side and contributed to the rise and expansion of Islam."
@@ -39,11 +39,15 @@
 
  # Decision Traits
  restitutor_orbis:0 "Restitutor Orbis"
- restitutor_orbis_desc:0 "This Character was able to reconquer all the lands of the Roman Empire, deserving of the recognition and praise they recieved for their efforts."
+ restitutor_orbis_desc:0 "This character was able to reconquer all of the lands of the Roman Empire, making any recognition and praise they recieve for their efforts well deserved."
 
  # Attila Trait
  trait_the_hun:0 "The Hun"
- trait_the_hun_desc:0 "The Hun was the nickname given to the nomadic warlord known as Attila, who was also called the Scourge due to his reputation of not sparing any Christian city from his destructive rampage into Europe."
+ trait_the_hun_desc:0 "The Hun was the nickname given to the nomadic warlord known as Attila, who was also called the Scourge due to his reputation of not sparing any Christian city from his destructive rampage in Europe."
+
+ # Heir of Attila Trait
+ trait_heir_of_attila:0 "Heir Of Attila"
+ trait_heir_of_attila_desc:0 "This character was able to reunite the Hunnic Empire and proclaim themselves rightful heir to Attila"
 
  trait_low_senator:0 "Low Senator"
  low_senator_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a member of the Imperial Senate, though his low rank doesn't merit any recognition of his efforts at the present moment."

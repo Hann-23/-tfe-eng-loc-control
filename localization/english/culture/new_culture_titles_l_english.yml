@@ -135,3 +135,16 @@
  bretwalda:0 "Bretwalda"
 
  sarkibraterbetti:0 "Sar Kibrāt Erbetti"
+
+ # Berbers
+ north_berber_male_baron:0 "Amghar"
+ north_berber_female_baron:0 "Tamghart"
+ north_berber_male_count:0 "Agellid Ameska"
+ north_berber_female_count:0 "Tagellit Ameska"
+ north_berber_male_duke:0 "Amussnaw"
+ north_berber_female_duke:0 "Tamussnawt"
+ north_berber_male_king:0 "Agellid"
+ north_berber_female_king:0 "Tagellidt"
+ north_berber_male_emperor:0 "Amenkad"
+ north_berber_female_emperor:0 "Tamenkadt"
+

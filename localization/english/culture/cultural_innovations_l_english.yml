@@ -50,7 +50,7 @@
  innovation_phalanx:0 "Phalanx"
  innovation_phalanx_desc:0 "The phalanx was a rectangular military formation, usually composed entirely of heavy infantry armed with spears, pikes, sarissas, or similar pole weapons."
  innovation_animal_husbandry:0 "Animal Husbandry"
- innovation_animal_husbandry_desc:0 "Animal Husbandry is a form of agriculture about breading and raising animals."
+ innovation_animal_husbandry_desc:0 "Animal Husbandry is a form of agriculture centered around breeding and raising animals."
 
  innovation_writing:0 "Writing"
  unlock_writing_traditions:0 "Unlocks Writing traditions, which give:\n[diplomacy|E]: [diplomacy_i]#P +1#!\n[learning|E]: [learning_i]#P +1#!\n[diplomatic_range|E]: #P +25%#!\n[development|E] Growth: #P +10%#!\n[cultural_fascination|E] Progress: #P +5%#!"
@@ -90,11 +90,11 @@
  innovation_BasicIrrigationSystems:0 "Basic Irrigation"
  innovation_BasicIrrigationSystems_desc:0 "Irrigation is the artificial process of applying controlled amounts of water to land to assist in the production of crops." 
  innovation_PP:0 "Political Parties"
- innovation_PP_desc:0 "Political Parties are groups of people who share the same views on politics."
+ innovation_PP_desc:0 "Political parties are groups of people who share the same views on politics."
  innovation_Authority:0 "Authority"
  innovation_Authority_desc:0 "“Nothing strengthens authority so much as silence.” - Leonardo da Vinci"
  innovation_inheritance1:0 "Inheritance"
- innovation_inheritance1_desc:0 "Inheritance. The act... or art... or passing on your earthly belongings to your successor."
+ innovation_inheritance1_desc:0 "Inheritance. The act... or art... of passing on your earthly belongings to your successor."
  ##vanilla
  
  innovation_gavelkind:0 "Gavelkind"
@@ -123,7 +123,7 @@
 
  #Regional
  innovation_viking_tradition:0 "Viking Tactics"
- innovation_viking_tradition_desc:0 "The people of the north have a long tradition of trade, but also of piracy. Few are prepared to fight a threat that appears without warning from the banks of a river, and the viking warriors are masters of such warfare."
+ innovation_viking_tradition_desc:0 "The people of the north have a long tradition of trade, but also of piracy. Few are prepared to fight a threat that appears without warning from the banks of a river, and the Vikings are masters of such warfare."
  
  innovation_longboats:1 "Longships"
  innovation_longboats_desc:1 "Our longships are formidable seafaring vessels which can travel almost anywhere and even brave rough weather, giving us exceptional mobility on the seas."
@@ -373,7 +373,7 @@
 
  innovation_client_states:0 "Client States"
  innovation_client_states_desc:0 "By giving outside rulers more lenient contracts that still insure their independence they are more inclined to accept our request which will still guarantee our superiority in the region"
- unlocks_tributaries:0 "Unlocks the [T4N_tributary|E] mechanic and it's casus belli and interactions\n Tributaries will give a portion of their gold and men each month"
+ unlocks_tributaries:0 "Unlocks the [T4N_tributary|E] mechanic and its casus belli and interactions\n Tributaries will give a portion of their gold and men each month"
 
  innovation_imperial_faith:0 "Imperial Faiths"
  innovation_imperial_faith_desc:0 "As we build our empire, we have to declare a state faith to better enforce peace in our realm."

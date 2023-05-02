@@ -118,6 +118,9 @@
  etruscan:0 "Etruscan"
  etruscan_prefix:0 "Etrusco"
  etruscan_collective_noun:0 "Etruscans"
+ nuragic:0 "Nuragic"
+ nuragic_prefix:0 "Nuragic"
+ nuragic_collective_noun:0 "Nuragics"
 
  hispanian:0 "Hispanian"
  hispanian_prefix:0 "Hispano"
@@ -583,6 +586,11 @@
  bafour_prefix:0 "Bafouro"
  bafour_collective_noun:0 "Bafours"
 
+ #Central African cultures
+ toubou:0 "Toubou"
+ toubou_prefix:0 "Toubou"
+ toubou_collective_noun:0 "Toubou"
+
  celtiberian:0 "Celtiberian"
  celtiberian_prefix:0 "Celthispano"
  celtiberian_collective_noun:0 "Celtiberians"
@@ -677,6 +685,12 @@
  erano_roman_name:0 "Arianian"
  erano_roman_prefix:0 "Ariano"
  erano_roman_collective_noun:0 "Arianians"
+ moksha:0 "Moksha"
+ moksha_prefix:0 "Moksha"
+ moksha_collective_noun:0 "Mokshas"
+ udmurt:0 "Udmurt"
+ udmurt_prefix:0 "Udmurt"
+ udmurt_collective_noun:0 "Udmurts"
 
  soissons:0 "Soissons"
  soissons_prefix:0 "Soissono"
@@ -703,3 +717,9 @@
  nabatean_history_loc:0 "Formed from [CULTURE.GetName] tribes influenced by [TARGET_CULTURE.GetName] culture in the first millennium BC"
  arran_history_loc:0 "Formed from [CULTURE.GetName] and several cultures of Caucasian [heritage|E]"
  western_suebi_history_loc:0 "Diverged from [CULTURE.GetName] after establishing their own kingdom"
+ pontic_history_loc:0 "Formed from [CULTURE.GetCollectiveNoun] and [TARGET_CULTURE.GetCollectiveNoun] ruling over Anatolians in the 1st millennium BC"
+ syrian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 332 BC"
+ aegyptian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 332 BC"
+ galatian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 275 BC"
+ sardinian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 238 BC"
+ roman_rhaetian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 15 BC"

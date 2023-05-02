@@ -8,7 +8,7 @@
  TFE_kentish_ragstone_ignoring_annoyances:0 "Ignoring Annoyances"
 
  britannia_flavor.0001.t:0 "Hitting Ragstone"
- britannia_flavor.0001.desc:0 "A messenger came to me this afternoon with interesting news from [kent.GetNameNoTier].\n\nHe said that one of those self-claimed Roman noblemen tried opening up a new silver mine around Maegdanstane – a rock-speaking fool. It so happens that one of his workers had their ragged clothes snag on this hard grey rock deposit in their mine. The nobleman now claims he’s found a rich stretch of the rock that they used to quarry for building churches in the cities.\n\nPerhaps something can and should be done to benefit from this ragstone, as they call it."
+ britannia_flavor.0001.desc:0 "A messenger came to me this afternoon with interesting news from [kent.GetNameNoTier].\n\nHe said that one of those self-claimed Roman noblemen tried opening up a new silver mine around Maegdanstane - a rock-speaking fool. It just so happens that one of his workers had their ragged clothes snag on this hard grey rock deposit in their mine. The nobleman now claims he’s found a rich stretch of the rock that they used to quarry for building churches in the cities.\n\nPerhaps something can and should be done to benefit from this ragstone, as they call it."
  britannia_flavor.0001.a:0 "Building materials are sparse. Take control of the mine!"
  britannia_flavor.0001.b:0 "Perhaps a Roman knowledgeable about the area can help us."
  britannia_flavor.0001.b.tooltip:0 "A capable Britano-Roman character will join your court as a guest"

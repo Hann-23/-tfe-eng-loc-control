@@ -111,3 +111,9 @@
  military_office_authority_1:0 "Minimal Military Authority"
  military_office_authority_2:0 "Low Military Authority"
  military_office_authority_3:0 "High Military Authority"
+
+ city_state_authority:0 "City State Authority"
+ city_state_authority_0:0 "No City State Authority"
+ city_state_authority_1:0 "Low City State Authority"
+ city_state_authority_2:0 "High City State Authority"
+ city_state_authority_3:0 "Absolute City State Authority"

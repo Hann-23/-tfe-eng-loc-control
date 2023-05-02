@@ -13,7 +13,6 @@
  language_irminonic_name:0 "Irminonic"
  language_proto_slavic_name:0 "Slavic"
  language_celtiberian_name:0 "Celtiberian"
- language_celtic_name:0 "Continental Celtic"
  language_sayhadic_name:0 "Himyaritic"
  language_etruscan_name:0 "Etruscan"
  language_kemetic_name:0 "Kemetic"
@@ -41,3 +40,4 @@
  language_south_arabian_name:0 "South Arabian"
  language_colchidian_name:0 "Colchidian"
  language_svan_name:0 "Svan"
+ language_lezgic_name:0"Lezgic"

@@ -68,4 +68,12 @@
  setting_office_events_enabled: "Enabled"
  setting_office_events_enabled_desc: "As a bureaucratic empire, you will get an event each time a direct vassal dies for you to decide who gains the office after them."
  setting_office_events_disabled: "Disabled"
- setting_office_events_disabled_desc: "As a bureaucratic empire, you will get not get the military office events and instead it will automatically choose the option for the senate to decide who gains the office."
+ setting_office_events_disabled_desc: "As a bureaucratic empire, you will not get the military office events and instead it will automatically choose the option for the Senate to decide who gains the office."
+
+ rule_imperial_competence:0 "Imperial Competence"
+ setting_imperial_competence_enabled:0 "#high Enabled#!"
+ setting_imperial_competence_enabled_desc:0 "(Recommended for Experienced Players) You play with the challenge of keeping your Imperial Competence stable."
+ setting_imperial_competence_enabled_in_430:0 "#high Enabled After 430 AD#!"
+ setting_imperial_competence_enabled_in_430_desc:0 "You play with the challenge of keeping your Imperial Competence stable after the year 430 AD."
+ setting_imperial_competence_disabled:0 "#high Disabled#!"
+ setting_imperial_competence_disabled_desc:0 "(Recommended for New Players) You play without the challenge of keeping your Imperial Competence stable."

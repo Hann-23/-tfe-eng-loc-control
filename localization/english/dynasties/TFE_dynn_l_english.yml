@@ -758,7 +758,7 @@ dynn_Jid_ati:0 "Jid'ati"
 dynn_Jinji:0 "Jinji"
 dynn_Jirifai:0 "Jirifai"
 dynn_Jogailaitis:0 "Jogailaitis"
-dynn_Julio_Claudian:0 "Julio claudian"
+dynn_Julio_Claudian:0 "Julio-Claudian"
 dynn_Justinian:0 "Justinian"
 dynn_Juthungi:0 "Juthungi"
 dynn_Junius:0 "Iunius"
@@ -1876,7 +1876,7 @@ dynn_in_Rothaich:0 "in Rothaich"
 dynn_in_Toisich:0 "in Toisich"
 dynn_in_tSagairt:0 "in tSagairt"
 dynn_Wodensing:0 "Wodensing"
-dynn_Nuvelan:0 "Nuvelan"
+dynn_Nuvelan:0 "Nubelan"
 dynn_Chattauri:0 "Chattauri"
 dynn_Chatti:0 "Chatti"
 dynn_Chattii:0 "Chattii"
@@ -2065,7 +2065,7 @@ dynn_Vishnukundina:0 "Vishnukundina"
 dynn_caesarius:0 "Caesarius"
 dynn_Oretum:0 "Oretius"
 dynn_Nebridian:0 "Nebridius"
-dynn_Nuvelan:0 "Nuvelius"
+dynn_Nuvelan:0 "Nubelius"
 dynn_Valentianic:0 "Valentianius"
 dynn_Constantinian:0 "Constantinius"
 dynn_Anicii:0 "Anicus"
@@ -2167,24 +2167,25 @@ dynn_Gostahamid:0 "Gostahamid"
 dynn_Vishtapid:0 "Vishtapid"
 
 # White Hun/Hephthalite/Kidarite/Xionite/etc
-dynn_Kidarite:0 "Kidarite"
-dynn_Hephthalite:0 "Ebodal" # What the Hephthalites called themselves
-dynn_Wanwan:0 "Wanwan" # Petty Yuezhi descended kings in Angren/northern Fergana/Khujand under the Chionites
-dynn_Yuni:0 "Yuni" # Chionite rulers of Chach; Yuni is early Chinese name for Chach
-dynn_Uar:0 "Uar" # Strong candidates for precursor tribe of the Avars
-dynn_Alchonid:0 "Alchonid" # Alchon Huns
-dynn_Panakat:0 "Panäkät" # Junior/cadet branch of the rulers of Chach
-dynn_Afshiyan:0 "Afshiyan" # Kidarite remnants in Samarkand
-dynn_Rob:0 "Rob" # Kingdom of Rob
-dynn_Kushan:0 "Kushan"
-dynn_Vardana_Khudat:0 "Vardana Khudat" # Rulers of the city of Vardana, major settlement near Bukhara
-dynn_Dayuan:0 "Dayuan" # Last remnants of old Dayuan state
-dynn_Chehanna:0 "Chehanna" # Chaghaniyan in Chinese per Xuanzang
-dynn_Hebatan:0 "Hebatan" # Chinese for Kobadian
-dynn_bukhar_khudat:0 "Bukhar Khudat" # Rulers of Bukhara until the late 800s
-dynn_khabandha:0 "Khabandha" # Kingdom of Tashkurgan/Qiepantuo in Chinese records
-dynn_Khuttalshah:0 "Khuttalshah" # Local rulers of Khuttal
-dynn_shemi:0 "Shemi" # Chitral per Song Yun
+ dynn_Kidarite:0 "Kidarite"
+ dynn_Hephthalite:0 "Ebodal" # What the Hephthalites called themselves
+ dynn_Wanwan:0 "Wanwan" # Petty Yuezhi descended kings in Angren/northern Fergana/Khujand under the Chionites
+ dynn_Yuni:0 "Yuni" # Chionite rulers of Chach; Yuni is early Chinese name for Chach
+ dynn_Uar:0 "Uar" # Strong candidates for precursor tribe of the Avars
+ dynn_Alchonid:0 "Alchonid" # Alchon Huns
+ dynn_Panakat:0 "Panäkät" # Junior/cadet branch of the rulers of Chach
+ dynn_Afshiyan:0 "Afshiyan" # Kidarite remnants in Samarkand
+ dynn_Rob:0 "Rob" # Kingdom of Rob
+ dynn_Kushan:0 "Kushan"
+ dynn_Vardana_Khudat:0 "Vardana Khudat" # Rulers of the city of Vardana, major settlement near Bukhara
+ dynn_Dayuan:0 "Dayuan" # Last remnants of old Dayuan state
+ dynn_Chehanna:0 "Chehanna" # Chaghaniyan in Chinese per Xuanzang
+ dynn_Hebatan:0 "Hebatan" # Chinese for Kobadian
+ dynn_bukhar_khudat:0 "Bukhar Khudat" # Rulers of Bukhara until the late 800s
+ dynn_khabandha:0 "Khabandha" # Kingdom of Tashkurgan/Qiepantuo in Chinese records
+ dynn_Khuttalshah:0 "Khuttalshah" # Local rulers of Khuttal
+ dynn_shemi:0 "Shemi" # Chitral per Song Yun
+ dynn_kushano_sassanian:0 "Kushano-Sassanid" # Kushano-Sassanids
 
 # Bactrian
  dynn_Roba:0 "Roba"
@@ -2348,6 +2349,7 @@ dynn_Bogden:0 "Bogden"
  dynn_diexi:0 "Diexi"
 
  dynn_Huangzhong:0 "Huangzhong" # Little Yuezhi tribe around Xining
+ dynn_Shuangmi:0 "Shuangmi" # Shughnan, in Weilue
 
 # Frankish
  dynn_Meroving:0 "Meroving"
@@ -2738,3 +2740,67 @@ dynn_Hyrcanus:0 "Hyrcanus"
  dynn_kshahar_a_bar_ta:0 "Kshahar"
  Kennedys:0 "Kennedys"
  medraut:0 "Medraut"
+ dynn_hipponensis:0 "Hipponensis"
+ dynn_Ogiso:0 "Ogiso"
+ dynn_baquates:0 "Baquates"
+ dynn_westbavares:0 "Bavares"
+ dynn_macenites:0 "Macenites"
+ dynn_ataremid:0 "Ataremids"
+ dynn_fezzanid:0 "Fezzanids"
+ dynn_gamphasantes:0 "Gamphasantes"
+ dynn_austuriani:0 "Austuriani"
+ dynn_baniures:0 "Baniures"
+ dynn_zegrenses:0 "Zegrenses"
+ dynn_nesimi:0 "Nesimi"
+ dynn_autoleles:0 "Autoleles"
+ 
+ ### Extra Roman Dynasty Names ###
+ dynn_Acisculus:0 "Acisculus"
+ dynn_Aeneas:0 "Aeneas"
+ dynn_Amadeus:0 "Amadeus"
+ dynn_Amulius:0 "Amulius"
+ dynn_Benedictus:0 "Benedictus"
+ dynn_Brutus:0 "Brutus"
+ dynn_Carbo:0 "Carbo"
+ dynn_Carina:0 "Carina"
+ dynn_Cassia:0 "Cassia"
+ dynn_Cicero:0 "Cicero"
+ dynn_Decimus:0 "Decimus"
+ dynn_Delphina:0 "Delphina"
+ dynn_Deusdedit:0 "Deusdedit"
+ dynn_Drusus:0 "Drusus"
+ dynn_Ectorius:0 "Ectorius"
+ dynn_Evander:0 "Evander"
+ dynn_Fabius:0 "Fabius"
+ dynn_Fannia:0 "Fannia"
+ dynn_Felix:0 "Felix"
+ dynn_Flaccus:0 "Flaccus"
+ dynn_Florentina:0 "Florentina"
+ dynn_Frugi:0 "Frugi"
+ dynn_Fulgentius:0 "Fulgentius"
+ dynn_Gabinus:0 "Gabinus"
+ dynn_Gavia:0 "Gavia"
+ dynn_Helvia:0 "Helvia"
+ dynn_Hortensia:0 "Hortensia"
+ dynn_Italus:0 "Italus"
+ dynn_Julius:0 "Julius"
+ dynn_Junius:0 "Junius"
+ dynn_Leos:0 "Leos"
+ dynn_Livius:0 "Livius"
+ dynn_Manius:0 "Manius"
+ dynn_Marcellus:0 "Marcellus"
+ dynn_Marianus:0 "Marianus"
+ dynn_Marinelli:0 "Marinelli"
+ dynn_Martinus:0 "Martinus"
+ dynn_Maximus:0 "Maximus"
+ dynn_Metellus:0 "Metellus"
+ dynn_Numitor:0 "Numitor"
+ dynn_Octavia:0 "Octavia"
+ dynn_Paulus:0 "Paulus"
+ dynn_Pollux:0 "Pollux"
+ dynn_Pontius:0 "Pontius"
+ dynn_Quirinus:0 "Quirinus"
+ dynn_Scipiones:0 "Scipiones"
+ dynn_Seneca:0 "Seneca"
+ dynn_Tatius:0 "Tatius"
+ dynn_Valentius:0 "Valentius"

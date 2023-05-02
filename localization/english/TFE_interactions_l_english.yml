@@ -1,8 +1,8 @@
 ﻿l_english:
  select_preferred_caliph:0 "Select as Preferred Caliph"
- select_preferred_caliph_desc:0 "Selecting a Preferred Caliph allows you to decide where will your zakah go. It also helps legitimizing this caliph"
+ select_preferred_caliph_desc:0 "Selecting a Preferred Caliph allows you to decide where your zakah will go. It also helps to legitimize the chosen Caliph"
  select_preferred_caliph_notification:0 "Preferred Caliph Selected"
- new_preferred_caliph_interactions:0 "[CHARACTER.GetShortUIName|U] chose [TARGET_CHARACTER.GetShortUIName|U] as his preferred caliph."
+ new_preferred_caliph_interactions:0 "[CHARACTER.GetShortUIName|U] chose [TARGET_CHARACTER.GetShortUIName|U] as their preferred Caliph."
  
  adopt_interaction:0 "Adopt as Child"
  adopt_interaction_desc:0 "Adopt the recepient as your child, making them a part of your house."
@@ -10,10 +10,10 @@
  
  sell_gladiator_interaction:0 "Sell as a Gladiator"
  sell_gladiator_interaction_desc:0 "As [recipient.GetShortUINameNoTooltip] can fight, you can sell [recipient.GetHerHim] to a rich Lanista. [recipient.GetShortUINameNoTooltip] will fight and most likely die in the arena."
- sell_gladiator_interaction_recipient_effect:0 "[recipient.GetShortUINameNoTooltip] will be sold into slavery as a Gladiator, forced fight for [recipient.GetHerHis] new master known as a Lanista."
+ sell_gladiator_interaction_recipient_effect:0 "[recipient.GetShortUINameNoTooltip] will be sold into slavery as a Gladiator, forced to fight for [recipient.GetHerHis] new master known as a Lanista."
 
  send_to_imperial_court:0 "Send to Imperial Court"
- send_to_imperial_court_desc:0 "Send [recipient.GetShortUINameNoTooltip] to the imperial court to train and eventually become a senator of the roman empire."
+ send_to_imperial_court_desc:0 "Send [recipient.GetShortUINameNoTooltip] to the Imperial court to train and eventually become a Senator of the Roman Empire."
  send_to_imperial_court_notification:0 "[recipient.GetShortUINameNoTooltip] is now a [training_senator|E]"
 
 

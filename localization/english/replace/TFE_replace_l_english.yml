@@ -6,8 +6,8 @@
  city_holding:0 "Town"
  
  tradition_roman_legacy_name:0 "Roman Legions"
- tradition_roman_legacy_desc:0 "The Roman Empire was built and kept secure by the strength of its legions. Even in these times of crisis, the idea and ideal of a strong and powerful standing army resonates in the heart of this people, and powerful rulers are known to delegate parts of their realm to commanders, feeding and housing thousands of soldiers ready to defend their Empire."
- tradition_roman_legacy_desc:0 "Even in these times of crisis, the idea and ideal of a strong and powerful standing army resonates in the heart of this people, and powerful rulers are known to delegate parts of their realm to commanders, feeding and housing thousands of soldiers ready to defend their Empire."
+ tradition_roman_legacy_desc:0 "The Roman Empire was built and kept secure by the strength of its legions. Even in these times of crisis, the idea and ideal of a strong and powerful standing army resonates in the hearts of this culture, and powerful rulers are known to delegate parts of their realm to commanders, feeding and housing thousands of soldiers ready to defend their Empire."
+ tradition_roman_legacy_desc:0 "Even in these times of crisis, the idea and ideal of a strong and powerful standing army resonates in the hearts of this culture, and powerful rulers are known to delegate parts of their realm to commanders, feeding and housing thousands of soldiers ready to defend their Empire."
  language_iranian_name:0 "West Iranian"
  language_scythian_name:0 "East Iranian"
 
@@ -16,6 +16,9 @@
  heritage_latin_name:0 "Italic"
  heritage_latin_collective_noun:0 "Italics"
  heritage_celtic_name:0 "Continental Celtic"
+ heritage_celtic_collective_noun:0 "Continental Celts"
+ language_celtic_name:0 "Continental Celtic"
+
  # Endonyms
  greek:1 "Hellenic"
  greek_prefix:1 "Helleno"
@@ -99,8 +102,6 @@
  setting_none_hybrid_culture_ai_frequency_desc:0 "No non-player created [hybrid_cultures|E] will appear.\n#P TFE note: We recommend turning off all AI divergent and hybrid cultures as TFE adds its own collection of historical melting-pot cultures.#!"
  setting_none_divergent_culture_ai_frequency_desc:0 "No non-player created [divergent_cultures|E] will appear.\n#P TFE note: We recommend turning off all AI divergent and hybrid cultures as TFE adds its own collection of historical melting-pot cultures.#!"
 
- # Dynamic sea zones
- sea_black:0 "[Select_CString(Or(IsObserver, Not(IsInGame)), '$sea_black_common$', GetPlayer.Custom('sea_black'))]"
 
  feudalize_tribal_holding_interaction:0 "Feudalize Tribe/Estate"
  feudalize_tribal_holding_interaction_desc:0 "Destroy all [buildings|E] in this [holding|E] and turn it [feudal|E]"
@@ -116,3 +117,10 @@
  game_concept_contract_assistance_desc:2 "This is a special type of [interaction|E] available to [struggle_involved|E] [rulers|E] in various [struggle_struggles|E], allowing them to join other [struggle_involved|E] [rulerpossessive|E] [wars|E] in exchange for [gold|E].\n\nPayment is made on conclusion of the [war|E], whatever the outcome, as long as the contractor made a [war_contribution|E] of at least 100."
  catalyst_gain_claim_on_title:1 "Acquired [claim|E] [struggle_catalyst_catalyst|E]"
  catalyst_gain_claim_on_title_desc:1 "Acquire a [claim|E] on a [title|E] in the [struggle_region|E]"
+
+ mordvin:0 "Erzya"
+ mordvin_prefix:0 "Erzya"
+ mordvin_collective_noun:1 "Erzyas"
+ komi:0 "Komi"
+ komi_prefix:0 "Komi"
+ komi_collective_noun:1 "Komis"

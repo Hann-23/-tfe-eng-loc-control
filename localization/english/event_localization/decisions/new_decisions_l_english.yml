@@ -8,8 +8,8 @@
 
 #Abandon Britannia
  abandon_britannia_decision:0 "Abandon Britannia"
- abandon_britannia_decision_confirm:0 "There is No Alternative"
- abandon_britannia_decision_desc:0 "The Western Roman Empire is in peril of being overtaken by the barbarians lying outside our borders. We can't let the fate of our heartlands to luck, so our least economically-productive provinces must be abandoned in order to lift the burden and to allow for our armies to focus on the defense of the mainland. Britannia, while loyal to the empire for centuries, must prepare to fight on their own against the Celtic and Germanic tribes."
+ abandon_britannia_decision_confirm:0 "There is no alternative"
+ abandon_britannia_decision_desc:0 "The Western Roman Empire is in peril of being overrun by the barbarians living outside our borders. We can't leave the fate of our heartlands to luck, so our least economically-productive provinces must be abandoned in order to lift our administrative burden and to allow for our armies to focus on the defense of the mainland. Britannia, while loyal to the empire for centuries, must prepare to fight on their own against the Celtic and Germanic tribes."
  abandon_britannia_decision_tooltip:0 "A great cost perhaps, but it has to be done."
  abandon_britannia_decision_effect_tooltip:0 "Roman administration leaves the province of Britannia. The #V Diocese of $k_britannia$#! is destroyed, and removed from the [de_jure|E] borders of the Empire"
  abandon_britannia_decision_effect_tooltip_2:0 "This frees up considerable troops and administrators for the rest of the Empire, and will grant you a large amount of [gold_i|E] [gold|E]\n #F Leaving now will free #V [gold_i|E][EmptyScope.ScriptValue('abandon_britannia_gold_gained')|0]#! for our Imperial treasury#!"
@@ -21,28 +21,28 @@
  central_claim_confirm:0 "I will claim what is rightfully mine!"
 
  change_to_imperial:0 "Adopt Bureaucratic Ways"
- change_to_imperial_desc:0 "After our integration into the roman empires, it's time to turn the future of my realm and dynasty and adopt their Bureaucratic ways."
- change_to_imperial_tooltip:0 "You adopt the Bureaucratic ways"
+ change_to_imperial_desc:0 "After our integration into the Roman empires, it's time to change the future of my realm and dynasty and adopt their bureaucratic ways."
+ change_to_imperial_tooltip:0 "You adopt Bureaucratic ways"
  change_to_imperial_confirm:0 "It's time"
 
  change_to_autocratic:0 "Adopt Autocratic Ways"
- change_to_autocratic_desc:0 "After our seperation from the roman empires, it's time to turn the future of my realm and dynasty and adopt our own autocratic ways."
- change_to_autocratic_tooltip:0 "You adopt the Autocratic ways"
+ change_to_autocratic_desc:0 "After our separation from the Roman empires, it's time to change the future of my realm and dynasty and adopt our own autocratic ways."
+ change_to_autocratic_tooltip:0 "You adopt Autocratic ways"
  change_to_autocratic_confirm:0 "It's time"
  
  establish_red_sea:0 "Establish Supremacy over the Red Sea"
- establish_red_sea_desc:0 "The Red Sea coast has housed one of the known world's most lucrative sea routes, bringing to our ports precious commodities and luxuries from Constantinople to Sri Lanka. The time to secure the means of entrance into the Red Sea has come."
+ establish_red_sea_desc:0 "The Red Sea coast has housed one of the most lucrative sea routes in the known world, bringing to our ports precious commodities and luxuries from places as varied as Constantinople and Sri Lanka. The time to secure the means of entrance into the Red Sea has come."
  establish_red_sea_tooltip:0 "You form the Empire of the Red Sea."
  establish_red_sea_confirm:0 "Unify the Sacred Sea."
 
  change_to_islamic:0 "Adopt Islamic Governing Ways"
- change_to_islamic_desc:0 "After our conversion to Islam, it's time to turn the future of my realm and dynasty and adopt their ruling ways."
- change_to_islamic_tooltip:0 "You adopt the Bureaucratic ways"
+ change_to_islamic_desc:0 "After our conversion to Islam, it's time to change the future of my realm and dynasty and adopt their ruling ways."
+ change_to_islamic_tooltip:0 "You adopt Islamic ways"
  change_to_islamic_confirm:0 "It's time"
 
  change_to_caliphate:0 "Challenge the Seat of the Caliph"
- change_to_caliphate_desc:0 "The ways of our people are lost! no more do people look up to us for truth and power. Someone must step up and take the mantle of caliph and lead our great faith to greatness."
- change_to_caliphate_tooltip:0 "Someone must step up and take the mantle of caliph and lead our great faith to greatness"
+ change_to_caliphate_desc:0 "The ways of our people are lost! No more do people look up to us for truth and power. Someone must step up and take the mantle of Caliph and lead our faith to greatness."
+ change_to_caliphate_tooltip:0 "Someone must step up and take the mantle of Caliph and lead our faith to greatness"
  change_to_caliphate_confirm:0 "It's time"
 
  send_missionaries:0 "Send Missionaries"
@@ -53,8 +53,8 @@
  send_missionaries_confirm:0 "May [ROOT.Char.GetFaith.HighGodName] guide us!"
 
  change_to_imperial_byz:0 "Re-Establish Bureaucratic Ways"
- change_to_imperial_byz_desc:0 "After the dissulotion of the empire's bureaucratic ways, it's time to turn the future of the empire and re-establish Bureaucratic ways."
- change_to_imperial_byz_tooltip:0 "You adopt the Bureaucratic ways"
+ change_to_imperial_byz_desc:0 "After the dissolution of the empire's bureaucratic ways, it's time to change the future of the empire and re-establish bureaucratic ways."
+ change_to_imperial_byz_tooltip:0 "You adopt bureaucratic ways"
  change_to_imperial_byz_confirm:0 "It's time"
 
  change_to_imperial_feudal:0 "Embrace Roman [GetGovernment( 'imperial_government' ).GetName] Practices"
@@ -88,17 +88,17 @@
  zakah_modifier_dev_confirm:0 ""
 
  restore_military_comp:0 "Restore [military_comp|E]"
- restore_military_comp_desc:0 "After our great and shameful incompetence in our military, we have regained our foothold and the world reconsiders our military as the best."
+ restore_military_comp_desc:0 "After a period of great and shameful incompetence in our military management, we have regained our strength and the world considers our military as the best once again."
  restore_military_comp_tooltip:0 "Restore your [military_comp|E]"
  restore_military_comp_confirm:0 "For The Empire!"
 
  restore_civic_comp:0 "Restore [civic_comp|E]"
- restore_civic_comp_desc:0 "After our great and shameful incompetence in our civic management, we have regained our foothold and the world reconsiders our realm as the best."
+ restore_civic_comp_desc:0 "After a period of great and shameful incompetence in our civic management, we have regained our strength and the world considers our realm as the best once again."
  restore_civic_comp_tooltip:0 "Restore your [civic_comp|E]"
  restore_civic_comp_confirm:0 "For The Empire!"
 
  restore_diplo_comp:0 "Restore [diplo_comp|E]"
- restore_diplo_comp_desc:0 "After our great and shameful diplomatic incompetence both inside AND outside our realm, rulers near and far have regained confidence with us and our interactions and the world reconsiders our diplomacy as the best."
+ restore_diplo_comp_desc:0 "After a period of great and shameful diplomatic incompetence both inside AND outside our realm, rulers near and far have regained confidence with us and our interactions. The world considers our diplomats as the best once again."
  restore_diplo_comp_tooltip:0 "Restore your [diplo_comp|E]"
  restore_diplo_comp_confirm:0 "For The Empire!"
  
@@ -108,44 +108,44 @@
  titular_tribe_settle_confirm:0 "Long may we prosper!"
 
  find_aurelian_helmet:0 "Find Aurelian's Helmet"
- find_aurelian_helmet_tooltip:0 "Send your antiquarian on the task of finding the long lost helmet of Imperator Aurelian."
- find_aurelian_helmet_desc:0 "Send your antiquarian on the task of finding the long lost helmet of Imperator Aurelian. Finding it isn't certain but it will bring along power, grandness and might of the glory of his reign."
+ find_aurelian_helmet_tooltip:0 "Command your antiquarian find the long lost helmet of Imperator Aurelian."
+ find_aurelian_helmet_desc:0 "Command your antiquarian find the long lost helmet of Imperator Aurelian. Finding it isn't certain but its rediscovery will bring a reminder of the power, grandness and glory of his reign."
  find_aurelian_helmet_confirm:0 "Send Them In!"
 
  forge_roman_regalia:0 "Forge the Roman Regalia"
- forge_roman_regalia_desc:0 "The Empire has been united! It is time to forget the dark times we marched through. However, as hard as we try to move on, the regalia is still there, reminding us, haunting us with memories of the past so I met with my advisors to put an end to this."
+ forge_roman_regalia_desc:0 "The Empire has been united! It is time to forget the dark times we marched through. However, as hard as we try to move on, the regalia is still there, reminding us, haunting us with memories of the past. I have met with my advisors to put an end to this."
  forge_roman_regalia_tooltip:0 "The Empire has been united! However, as hard as we try to move on, the regalia is still there, reminding us with memories of the past."
  forge_roman_regalia_confirm:0 "Time to turn a new page."
 
  gregorian_mission:0 "Commence the Gregorian Mission"
- gregorian_mission_desc:0 "Pagans and Heretics are rampant in our precious land, to ensure our faith and realm continues and prospers we have to request from the clergy and christian rulers to help us in our war against these heretics."
- gregorian_mission_tooltip:0 "Request help from the clergy in fighting the heretics in britannia"
+ gregorian_mission_desc:0 "Pagans and Heretics are rampant in our precious land. To ensure our faith and realm continues and prospers we have to request the help of the clergy and Christian rulers in our war against these heretics."
+ gregorian_mission_tooltip:0 "Request help from the clergy in fighting the heretics in Britannia"
  gregorian_mission_confirm:0 "For The Faith"
 
  restore_the_mardib_dam:0 "Restore the Ma'rib Dam"
- restore_the_mardib_dam_desc:0 "The Ma'rib Dam is a great wonder visited by many to witness our ancient might and innovation. However, the dam can also help protect our lands and fields from the floods the commoners have been reporting. Even temporarily, the dam can greatly help our realm and living conditions and thus we should consider to invest into restoring it to it's old Sabaean might."
- restore_the_mardib_dam_tooltip:0 "Even temporarily, the dam can greatly help our realm and living conditions and thus we should consider to invest into restoring it to it's old Sabaean might."
- restore_the_mardib_dam_tooltip_1:0 "You will attempt to restore the Ma'rib Dam resulting in great prosperity in the surrounding kingdom for #V 5 years#!"
+ restore_the_mardib_dam_desc:0 "The Ma'rib Dam is a great wonder visited by many to witness our ancient might and innovation. However, the dam can also help protect our lands and fields from the floods the commoners have been reporting. The dam can greatly help our realm and living conditions. We should consider investing into restoring it to its old Sabaean might."
+ restore_the_mardib_dam_tooltip:0 "Even temporarily, the dam can greatly help our realm and living conditions. We should consider investing into restoring it to its old Sabaean might."
+ restore_the_mardib_dam_tooltip_1:0 "You will attempt to restore the Ma'rib Dam, resulting in great prosperity in the surrounding kingdom for #V 5 years#!"
  restore_the_mardib_dam_tooltip_2:0 "#N The restoration might fail causing loss of opinion for 5 years!#!"
  restore_the_mardib_dam_tooltip_3:0 "Every county in $k_yemen$ gains the [GetModifier('marib_dam_restored').GetName] for 5 years"
  restore_the_mardib_dam_confirm:0 "Plan The Restoration"
 
  rebuild_the_mardib_dam:0 "Rebuild the Ma'rib Dam"
- rebuild_the_mardib_dam_desc:0 "The Ma'rib Dam is a great wonder visited by many to witness our ancient might and innovation. However, the dam can also help protect our lands and fields from the floods the commoners have been reporting. After meeting with my council, We decided that restoring the dam for the foreseeable future is the best and most efficient path to follow."
- rebuild_the_mardib_dam_tooltip:0 "After meeting with my council, We decided that restoring the dam for the foreseeable future is the best and most efficient path to follow."
+ rebuild_the_mardib_dam_desc:0 "The Ma'rib Dam is a great wonder visited by many to witness our ancient might and innovation. However, the dam can also help protect our lands and fields from the floods the commoners have been reporting. After meeting with my council, we decided that restoring the dam is the best and most efficient path to follow."
+ rebuild_the_mardib_dam_tooltip:0 "After meeting with my council, we decided that restoring the dam is the best and most efficient path to follow."
  rebuild_the_mardib_dam_tooltip_1:0 "You will rebuild the Ma'rib Dam resulting in great prosperity in the surrounding kingdom #V Forever#!"
  rebuild_the_mardib_dam_confirm:0 "It is Time"
  rebuild_the_mardib_dam_tooltip_2:0 "Every county in $k_yemen$ gains the [GetModifier('marib_dam_restored').GetName] forever"
 
  TFE_expel_christians_yemen:0 "Expel Yemenite Christians"
- TFE_expel_christians_yemen_desc:0 "Our great kingdom has recently embraced a more righteous path, but many within the realm's population question said path due to the thousands of Christians living under our banner. After careful planning with my council, we decided the best course of action to undertake is to expel the Christians from our lands."
+ TFE_expel_christians_yemen_desc:0 "Our great kingdom has recently embraced a more righteous path, but many within the realm's population question said path, especially the thousands of Christians living under our banner. After careful planning with my council, we decided the best course of action to undertake is to expel the Christians from our lands."
  TFE_expel_christians_yemen_tooltip_1:0 "#N The Aksumites might retaliate and seek to avenge the expelled Christians!#!"
  TFE_expel_christians_yemen_confirm:0 "Start the expulsion!"
  yemen_realm_switch_faiths:0 "There is a #V 75% #! chance for each county to convert to [ROOT.Char.GetFaith.GetNameNoTooltip] at the cost of control"
 
 
  proclaim_a_new_law:0 "Proclaim a New Law"
- proclaim_a_new_law_desc:0 "Now that we are well established in these lands, it is time for us to imitate the emperors and establish our own laws. These will testify to our place in the Roman world. Let us unite our subjects by the law!"
+ proclaim_a_new_law_desc:0 "Now that we are well established in these lands, it is time for us to imitate the emperors and establish our own laws. These will testify to our place in the Roman world. Let us unite our subjects by law!"
  proclaim_a_new_law_tooltip:0 "Now that we are well established in these lands, it is time for us to imitate the emperors and establish our own laws"
  proclaim_a_new_law_confirm:0 "Gather The Council"
  romano_barb_law:0 "Romano-Germanic code of law"
@@ -174,15 +174,15 @@
  NOT_high_seven_houses_favour:0 "The [great_house_favor|E] of the [great_houses|E] is higher than 80"
 
  TFE_abolish_houses:0 "Abolish the Great Houses"
- TFE_abolish_houses_desc:0 "The [great_houses|E] of Ērān have continuously threatened the Shah's position, but no more!\nAfter a series of unfortunate and suspicious events resulted in the extinction of the [great_houses|E]' bloodlines, the Shah can now rest assured that no longer can the throne be challenged."
- TFE_abolish_houses_tooltip:0 "After a series of unfortunate and suspicious events resulted in the extinction of the [great_houses|E]' bloodlines, the Shah can now rest assured that no longer can the throne be challenged."
+ TFE_abolish_houses_desc:0 "The [great_houses|E] of Ērān have continuously threatened the Shah's position, but no more!\nAfter a series of unfortunate and suspicious events resulted in the extinction of the [great_houses|E]' bloodlines, the Shah can now rest assured that they can no longer challenge the throne."
+ TFE_abolish_houses_tooltip:0 "After a series of unfortunate and suspicious events resulted in the extinction of the [great_houses|E]' bloodlines, the Shah can now rest assured that they can no longer challenge the throne."
  all_great_houses_dead:0 "All [great_houses|E] have died off"
  NOT_all_great_houses_dead:0 "All [great_houses|E] have died off"
  TFE_abolish_houses_confirm:0 "A pity"
 
  liberate_the_roman_south_decision:0 "Liberate the Romans of the South"
- liberate_the_roman_south_decision_desc:0 "As the last representatives of the civilized world, we are responsible for protecting the Romans under barbaric oppression"
- liberate_the_roman_south_decision_tooltip:0 "As the last representatives of the civilized world, we are responsible for protecting the Romans under barbaric oppression"
+ liberate_the_roman_south_decision_desc:0 "As the last representatives of the civilized world, we are responsible for protecting the Romans threatened by barbaric oppression"
+ liberate_the_roman_south_decision_tooltip:0 "As the last representatives of the civilized world, we are responsible for protecting the Romans threatened by barbaric oppression"
  liberate_the_roman_south_decision_confirm:0 "Order shall be restored"
  liberate_desc1:0 "Counties in $k_aquitaine$ and $k_burgundy$ have a #V 75% chance#! to convert to your [culture|E]"
 
@@ -194,15 +194,15 @@
 
  lowered_influence:0 "Lowered Influence"
  TFE_instate_dehqans:0 "Instate the Dehqan Class"
- TFE_instate_dehqans_desc:0 "In an effort to curb the influence that the [great_houses|E] have on our empire, it is time to instate a non-noble class to disrupt the ancient traditions that limited the positions of knight and cataphract to the nobility. This will anger many of the nobles, but it will also grant us further prosperity in the future."
- TFE_instate_dehqans_tooltip:0 "It is time to instate a non-noble class to disrupt the ancient traditions that limited the positions of knight and cataphract to the nobility."
+ TFE_instate_dehqans_desc:0 "In an effort to curb the influence that the [great_houses|E] have on our empire, it is time to instate a non-noble class to disrupt the ancient traditions that limited the positions of knights and cataphracts to the nobility. This will anger many of the nobles, but it will also grant us prosperity in the future."
+ TFE_instate_dehqans_tooltip:0 "It is time to instate a non-noble class to disrupt the ancient traditions that limited the positions of knights and cataphracts to the nobility."
  TFE_instate_dehqans_confirm:0 "Gather the Houses"
  TFE_instate_dehqans_tooltip_1:0 "Cataphracts will #V no longer#! be affected by the [great_house_favor|E] of the [great_houses|E]"
  TFE_instate_dehqans_tooltip_2:0 "Knights can now be recruited from [lowborn|E] classes"
  TFE_instate_dehqans_tooltip_3:0 "The [great_houses|E] will be considerably #N weaker#!"
 
  TFE_create_caucasian_empire:0 "Form the Caucasian Empire"
- TFE_create_caucasian_empire_desc:0 "For too long have the lands within and surrounding the Caucasus Mountains been influenced through the encroachment from neighboring empires. It is time for us to take a stand and assert our own strength through the establishment of a new empire."
+ TFE_create_caucasian_empire_desc:0 "For too long have the lands within and surrounding the Caucasus Mountains been influenced by encroaching, neighboring empires. It is time for us to take a stand and assert our own strength through the establishment of a new empire."
  TFE_create_caucasian_empire_confirm:0 "A New Era Begins"
  TFE_create_caucasian_empire_tooltip_1:0 "Every county in the Caucasus Mountains becomes a [de_jure|E] of The $e_caucasia$"
 
@@ -212,8 +212,8 @@
  TFE_construct_khawarnaq_confirm:0 "Gather the architects!"
 
  TFE_restore_assyria_decision:0 "Restore Assyria"
- TFE_restore_assyria_decision_desc:0 "It has been far too long since the last time our mighty empire graced this planet, but this changes now. After gaining a foothold in the fertile crecent, it is time to restore the assyrian empire and bring order to this dark age." 
- TFE_restore_assyria_decision_tooltip:0 "After gaining a foothold in the fertile crecent, it is time to restore the assyrian empire and bring order to this dark age."
+ TFE_restore_assyria_decision_desc:0 "It has been far too long since the last time our mighty empire graced this planet, but this changes now. After gaining a foothold in the fertile crecent, it is time to restore the Assyrian Empire and bring order to this dark age." 
+ TFE_restore_assyria_decision_tooltip:0 "After gaining a foothold in the fertile crecent, it is time to restore the Assyrian Empire and bring order to this dark age."
  TFE_restore_assyria_decision_confirm:0 "Our Enemies Will Bow!"
  TFE_restore_assyria_decision_tooltip.a:0 "Every [kingdom|E] held by you in [GetGeographicalRegion('region_assyria_greater').GetName] will be transferred to $e_assyria$"  
 
@@ -223,6 +223,23 @@
  set_capital_ctesiphon_decision_confirm:0 "Restore the true seat of the empire!"
 
  change_to_eranshar:0 "Adopt Eranshar Ways"
- change_to_eranshar_desc:0 "After our integration into the Ērānian Empire, it's time to turn the future of my realm and dynasty and adopt their Eranshar ways."
- change_to_eranshar_tooltip:0 "You adopt the Eranshar ways"
- change_to_eranshar_confirm:0 "It's time"
+ change_to_eranshar_desc:0 "After our integration into the Ērānian Empire, it is time to change the future of my realm and dynasty and adopt their Eranshar ways."
+ change_to_eranshar_tooltip:0 "You adopt Eranshar ways"
+ change_to_eranshar_confirm:0 "It is time"
+
+ restore_western_dioceses_decision_trigger_1:0 "Any of the provinces can be restored"
+ NOT_restore_western_dioceses_decision_trigger_1:0 "Any of the provinces can be restored"
+
+ split_the_empire:0 "Split The Roman Empire"
+ split_the_empire_desc:0 "The Roman Empire has stood strong and proud for centuries, but it is time to acknowledge that it is too vast, too complex for any one person to handle. In order for the Empire to be managed more efficiently, we need to split it just like Diocletian did many years ago."
+ split_the_empire_tooltip:0 "Mitigate the Empire's problems by dividing it into two parts."
+ split_the_empire.custom.tooltip.1:0 "All kingdoms in [GetGeographicalRegion('custom_potential_wre').GetName] will be transferred to [GetTitleByKey('e_western_roman_empire').GetName]"
+ split_the_empire.custom.tooltip.2:0 "All kingdoms in [GetGeographicalRegion('custom_potential_ere').GetName] will be transferred to [GetTitleByKey('e_byzantium').GetName]"
+ split_the_empire.custom.tooltip.3:0 "The empire will be split after this ruler dies if they are still emperor"
+ custom_potential_wre:0 "The West"
+ custom_potential_ere:0 "The East"
+ split_the_empire_confirm:0 "Rome #italic will#! endure!"
+
+ TFE_major_decisions.0002.t:0 "Our Imperial Faith"
+ TFE_major_decisions.0002.desc:0 "While my Empire drafted an Imperial decree declaring my faith to be the sole official Faith of the Empire, I no longer have the same zealousness I once did for [ROOT.Char.GetFaith.GetName]. It is time to turn a new page and revoke our Imperial decree"
+ TFE_major_decisions.0002.a:0 "It's the right thing to do"

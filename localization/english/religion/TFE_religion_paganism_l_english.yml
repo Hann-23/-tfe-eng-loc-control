@@ -6,23 +6,23 @@
  sol_invictus_adherent_plural:0 "Solists"
  sol_invictus_desc:1 "Sol was an early Roman sun deity that fell into obscurity during the First Century CE, but later brought back into prominence during the reign of Emperor Aurelian."
 
+ roman_pagan:0 "Cultus Deorum Romanorum"
+ roman_pagan_adj:0 "Religio Romana"
+ roman_pagan_adherent:0 "Religio Romana"
+ roman_pagan_adherent_plural:0 "Greco-Latins"
+ roman_pagan_desc:0 "The Cultus Deorum Romanorum refers to the system of beliefs and traditions upheld by the Romans, deriving influence from their historical neighbors in Magna Graecia and Etruria in the days of the Roman Republic."
+
  sol_invictus_old:0 "Old Sol Invictus"
  sol_invictus_old_adj:0 "Old Sol"
  sol_invictus_old_adherent:0 "Old Solist"
  sol_invictus_old_adherent_plural:0 "Old Solists"
  
- neoplatonic:1 "Neoplatonism"
- neoplatonic_adj:0 "Neoplatonic"
- neoplatonic_adherent:0 "Neoplatonist"
- neoplatonic_adherent_plural:0 "Neoplatonists"
- neoplatonic_desc:0 "Neoplatonism was a branch of Hellenic Paganism that emphasized the teachings of the Hellenic Philosopher, Plato (428/423 BC - 348/347 BC), but has since then developed into a school of thought present in the Roman Empire between the 3rd and 5th centuries AD."
-
  # Arabic Paganism
 
  arabic_pagan:1 "Semitic Paganism"
  arabic_pagan_adj:1 "Semitic"
  arabic_pagan_adherent:1 "Semite"
- pagan_adherents_plural:1 "Semites"
+ arabic_pagan_adherents_plural:1 "Semites"
  arabic_pagan_desc:1 "Isolated from the influences of Rome and Persia, the paganist beliefs of the Arab tribes binds the peoples of the region to its deserts and calm coastlines; without unity or a lust for conquest, followers of Arabic Paganism simply seek peace and tranquility from the happenings in Europe or the Orient."
  
  arabic_pagan_old:1 "Old Semitic Paganism"
@@ -166,13 +166,13 @@
  druidism_religion_adj:0 "Druidic"
  druidism_religion_adherent:0 "Druidist"
  druidism_religion_adherent_plural:0 "Druidists"
- druidism_religion_desc:0 "The beliefs of the ancient Celts revolved around what we call Celtic Mythology. The High Priest of these belief systems were the Druids, who were medics, astrologists, royal councillors and professors. The Romans feared the political power of these Druids to the point they decided to wipe them off the earth."
+ druidism_religion_desc:0 "The beliefs of the ancient Celts revolved around what we call Celtic Mythology. The High Priest of these belief systems were the Druids, who were medics, astrologists, royal councillors and professors. The Romans feared the political power of these Druids to the point that they decided to wipe them off the earth."
  
  druidism:0 "Druidism"
  druidism_adj:0 "Druidic"
  druidism_adherent:0 "Druidist"
  druidism_adherent_plural:0 "Druidists"
- druidism_desc:0 "The beliefs of the ancient Celts revolved around what we call Celtic Mythology. The High Priest of these belief systems were the Druids, who were medics, astrologists, royal councillors and professors. The Romans feared the political power of these Druids to the point they decided to wipe them off the earth."
+ druidism_desc:0 "The beliefs of the ancient Celts revolved around what we call Celtic Mythology. The High Priest of these belief systems were the Druids, who were medics, astrologists, royal councillors and professors. The Romans feared the political power of these Druids to the point that they decided to wipe them off the earth."
 
  druidism_old:0 "Old Druidism"
  druidism_old_adj:0 "Old Druidic"
@@ -242,7 +242,7 @@
  irish_druidism_adj:0 "Gaelic"
  irish_druidism_adherent:0 "Gaelic"
  irish_druidism_adherent_plural:0 "Gaelics"
- irish_druidism_desc:0 "Similar in fashion and tradition to Pictish Druidism, Gaelic Druidism has managed to distinguish itself from its close cousin in Britannia by being arguably the most “pure” form of Druidism unaffected by Roman or Gallic influences by virtue of its isolation over the years both north of the traditional province of Britannia and on the unconquered and independence island of Hibernia."
+ irish_druidism_desc:0 "Similar in fashion and tradition to Pictish Druidism, Gaelic Druidism has managed to distinguish itself from its close cousin in Britannia by being arguably the most “pure” form of Druidism unaffected by Roman or Gallic influences by virtue of its isolation over the years, being both north of the traditional province of Britannia and on the unconquered and independent island of Hibernia."
 
  irish_druidism_old:0 "Unreformed Gaelic Paganism"
  irish_druidism_old_adj:0 "Unreformed Gaelic"
@@ -293,7 +293,7 @@
  pictish_druidism_adj:0 "Pictish"
  pictish_druidism_adherent:0 "Pictish"
  pictish_druidism_adherent_plural:0 "Picts"
- pictish_druidism_desc:0 "The Pictish people are one of the furthest flung parts of the Druidic world. Containing more aspects of Celtic polytheism than their continental Gaulish or Britannic counterparts the Pictish Druidism is still however very recognizable to any follower wherever they may be."
+ pictish_druidism_desc:0 "The Pictish people are one of the furthest flung parts of the Druidic world. Containing more aspects of Celtic polytheism than their continental Gaulish or Britannic counterparts, Pictish Druidism is still very recognizable to any follower wherever they may be."
 
  pictish_druidism_old:0 "Unreformed Pictish Paganism"
  pictish_druidism_old_adj:0 "Unreformed Pictish"
@@ -366,7 +366,7 @@
  gaulish_pagan_old_adherent:0 "Old Gaul"
  gaulish_pagan_old_adherent_plural:0 "Old Gauls"
 
- gaulish_pagan_desc:0 "The Gauls are a proud and strong people who take pride in their heritage and their gods. Although heavily influenced by their Roman neighbours, and eventually overlords, the Gauls still held onto their gods and traditions."
+ gaulish_pagan_desc:0 "The Gauls are a proud and strong people who take pride in their heritage and their gods. Although heavily influenced by their Roman neighbours, and eventually overlords, the Gauls still hold onto their gods and traditions."
  celto_hellenic_syncretism:0 "Taranism"
  celto_hellenic_syncretism_adj:0 "Taranic"
  celto_hellenic_syncretism_adherent:0 "Taranic"
@@ -423,7 +423,7 @@
  britano_roman_pagan_adj:0 "Cywir"
  britano_roman_pagan_adherent:0 "Cywir"
  britano_roman_pagan_adherent_plural:0 "Cywirs"
- britano_roman_pagan_desc:0 "Followers of the Truth, the Cywirs worship the world around them as a living a breathing entity. Every nook and cranny of their world is filled wooth local dieties. Some native to Britain, while others arrived on boat from the Hellenized world. In Yr Cywir there is no wrong or right as long as the strict Brythonic code of conduct is followed; Courage, Honour, Honesty, Hospitality and Loyalty comes first."
+ britano_roman_pagan_desc:0 "Followers of the Truth, the Cywirs worship the world around them as a living, breathing entity. Every nook and cranny of their world is filled with local deities, some native to Britain, while others arrived via boat from the Hellenized world. In Yr Cywir there is no wrong or right as long as the strict Brythonic code of conduct is followed. Courage, Honour, Honesty, Hospitality and Loyalty come first."
  
  britano_roman_pagan_high_god_name:0 "Brigantia"
  britano_roman_pagan_high_god_name_possesive:0 "Brigantia's"
@@ -474,7 +474,7 @@
  briton_pagan_adj:0 "Hen Cywir"
  briton_pagan_adherent:0 "Hen Cywir"
  briton_pagan_adherent_plural:0 ""Hen Cywir"s"
- briton_pagan_desc:0 "Followers of the Old Truth, the Hen Cywirs worship the world arround them as a living a breathing entity. Every nook and cranny of their world is filled wooth local dieties. The gods of natuer wathc over the britons and they resist, unwilling to adopt the roman dieties, the old truths have remained unhellenized. While the druids are long gone, their influence can still be felt on those who choose to look for it and follow the strict Brythonic code of conduct; Courage, Honour, Honesty, Hospitality and Loyalty."
+ briton_pagan_desc:0 "Followers of the Old Truth, the Hen Cywirs worship the world around them as a living, breathing entity. Every nook and cranny of their world is filled with local deities. The gods of nature watch over the Britons and they resist conversion to foreign faiths, unwilling to adopt the Roman deities. The old truths have remained unhellenized. While the druids are long gone, their influence can still be felt on those who choose to look for it and follow the strict Brythonic code of conduct - Courage, Honour, Honesty, Hospitality and Loyalty."
 
  briton_pagan_old:0 "Unreformed Hen Cywir"
  briton_pagan_old_adj:0 "Unreformed Hen Cywir"
@@ -510,7 +510,7 @@
  
 
  special_faith_has_hellenic_syncretism_name:0 "Hellenic Syncretism"
- special_faith_has_hellenic_syncretism_desc:0 "The pantheon of Greece and Rome is a constantly changing group of deities, integrating and discarding deities as their popularity and cult wanes and waxes. Gods from other cultures are easily considered as just another aspect of an existing Hellenic god, or they might just be added to the core Hellenic deities."
+ special_faith_has_hellenic_syncretism_desc:0 "The pantheon of Greece and Rome is a constantly changing group of deities, integrating and discarding deities as their respective popularity and cult wanes and waxes. Gods from other cultures are easily considered as just another aspect of an existing Hellenic god, or they might just be added to the core Hellenic deities."
  doctrine_parameter_hostility_override_special_faith_has_hellenic_syncretism:0 "Considers, and is considered by, other [faiths|E] with the #V $special_faith_has_hellenic_syncretism_name$#! [doctrine|E] as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
 
  siberian_religion:0 "Turumic"
@@ -524,7 +524,7 @@
  iranian_religion_adj:0 "Iranic"
  iranian_religion_adherent:0 "Iranic"
  iranian_religion_adherent_plural:0 "Iranic"
- iranian_religion_desc:0 "Though many of the Iranian-speaking peoples have adopted newer, different beliefs, there are still those who worship the gods in the manner as their ancestors did in Central Asia."
+ iranian_religion_desc:0 "Though many of the Iranian-speaking peoples have adopted newer, different beliefs, there are still those who worship the gods in the same manner as their ancestors did in Central Asia."
 
  iranian_religion_old:0 "Old Iranism"
  iranian_religion_old_adj:0 "Old Iranic"
@@ -559,12 +559,40 @@
  dacian_pagan_adj:0 "Zalmoxian"
  dacian_pagan_adherent:0 "Zalmoxian"
  dacian_pagan_adherent_plural:0 "Zalmoxians"
- dacian_pagan_desc:0 "The highest deity is Zalmoxis, whose worship is faciliated by a class of priests. It is he who instructed his followers about the immortality of human souls, and how after death, people merely change their location and are reborn elsewhere."
+ dacian_pagan_desc:0 "The greatest deity is Zalmoxis, whose worship is faciliated by a class of priests. It is he who instructed his followers about the immortality of human souls, and how after death, people merely change their location and are reborn elsewhere. Orpheus, the Thracian bard of Greek legend, is also an important figure of veneration."
 
  dacian_pagan_old:0 "Old Zalmoxianism"
  dacian_pagan_old_adj:0 "Old Zalmoxian"
  dacian_pagan_old_adherent:0 "Old Zalmoxian"
  dacian_pagan_old_adherent_plural:0 "Old Zalmoxians"
+
+
+ dacian_high_god_name:0 "Zis"
+ dacian_high_god_name_possessive:0 "Zis'"
+ dacian_death_deity_name:0 "Hades"
+ dacian_death_deity_name_possessive:0 "Hades'"
+ dacian_creator_god_name:0 "Zis"
+ dacian_creator_god_name_possessive:0 "Zis'"
+ dacian_health_god_name:0 "Bendis"
+ dacian_health_god_name_possessive:0 "Bendis'"
+ dacian_fertility_god_name:0 "Bendis"
+ dacian_fertility_god_name_possessive:0 "Bendis'"
+ dacian_wealth_god_name:0 "Zalmoxis"
+ dacian_wealth_god_name_possessive:0 "Zalmoxis'"
+ dacian_household_god_name:0 "Bendis"
+ dacian_household_god_name_possessive:0 "Bendis'"
+ dacian_fate_god_name:0 "Orpheus"
+ dacian_fate_god_name_possessive:0 "Orpheus'"
+ dacian_knowledge_god_name:0 "Zalmoxis"
+ dacian_knowledge_god_name_possessive:0 "Zalmoxis'"
+ dacian_war_god_name:0 "Zalmoxis"
+ dacian_war_god_name_possessive:0 "Zalmoxis'"
+ dacian_trickster_god_name:0 "Zalmoxis"
+ dacian_trickster_god_name_possessive:0 "Zalmoxis'"
+ dacian_night_god_name:0 "Bendis"
+ dacian_night_god_name_possessive:0 "Bendis'"
+ dacian_water_god_name:0 "Bendis"
+ dacian_water_god_name_possessive:0 "Bendis'" 
  
  # Balkan/Daco-Thracian Paganism group
  balkan_religion:0 "Balkanism"
@@ -583,6 +611,7 @@
  egyptian_pagan_adj:0 "Kemetic"
  egyptian_pagan_adherent:0 "Kemite"
  egyptian_pagan_adherent_plural:0 "Kemites"
+ egyptian_pagan_desc:0 "The religion of the Pharaohs stretches back thousands of years. An innumerable group of deities are present in, and control the world, and ritual prayers, offerings, celebrations, and construction of elaborate temples and monuments are needed to gain their favor and maintain Ma'at, the cosmic order."
 
  egyptian_pagan_old:0 "Classic Kemetism"
  egyptian_pagan_old_adj:0 "Classic Kemetic"
@@ -762,12 +791,12 @@
  guanche_pagan_adj:0 "Guanche"
  guanche_pagan_adherent:1 "Guanche"
  guanche_pagan_adherent_plural:1 "Guanches"
- guanche_pagan_desc:1 "Achamán, the eternal sky god created the land and the water, the fire and the air, all creatures derived their existence from him. Achamán lives in the heights and sometimes descends upon the summits of the mountains, contemplating his creations. According to legend, Guayota kidnapped the sun Magec and trapped it in the volcano Teide, plunging the world into darkness. Humans prayed to Achamán who saved Magec, and instead locked the evil Guayota up in the Teide, where Guayota will reside forever. Guayota continues to torment humans via his offspring, the Tibicenas, demons with the bodies of great wild dogs with red eyes and covered by long black fur. Tibicenas live in deep caves and like their father Guayota, inside mountains; they are also known come out at night to attack humans or livestock."
+ guanche_pagan_desc:1 "Achamán, the eternal sky god, created the land and the water, the fire and the air, and thus all creatures derived their existence from him. Achamán lives in the heights and sometimes descends upon the summits of the mountains, contemplating his creations. According to legend, Guayota kidnapped the sun Magec and trapped it in the volcano Teide, plunging the world into darkness. Humans prayed to Achamán who saved Magec, and instead locked the evil Guayota up in the Teide, where Guayota will reside forever. Guayota continues to torment humans via his offspring, the Tibicenas, demons with the bodies of great wild dogs with red eyes and covered by long black fur. Tibicenas live in deep caves and like their father Guayota, inside mountains; they are also known come out at night to attack humans or livestock."
  carthage_pagan:0 "Canaanism"
  carthage_pagan_adj:0 "Canaanite"
  carthage_pagan_adherent:0 "Canaanite"
  carthage_pagan_adherent_plural:0 "Canaanites"
- carthage_pagan_desc:0 "The Canaanite religion venerates a number of Gods and their aspects, in a polytheistic manner. Baal is regarded as the chief deity in a complex hierarchy of lesser gods, which were often worshiped at shrines found on mountains or hilltops."
+ carthage_pagan_desc:0 "The Canaanite religion venerates a number of Gods and their aspects, in a polytheistic manner. Baal is regarded as the chief deity in a complex hierarchy of lesser gods, who were often worshiped at shrines found on mountains or hilltops."
  # Temples, priests, symbols, divine terms
  guanche_house_of_worship:0 "Almogarén" 
  guanche_house_of_worship_plural:0 "Almogaréns"
@@ -842,6 +871,19 @@
  guanche_pagan_old_adherent:0 "Old Achamánist"
  guanche_pagan_old_adherent_plural:0 "Old Achamánists"
 
+# Ammonism
+
+ ammon_pagan:0 "Ammonism"
+ ammon_pagan_adj:0 "Ammon"
+ ammon_pagan_adherent:0 "Ammonite"
+ ammon_pagan_adherent_plural:0 "Ammonites"
+ ammon_pagan_desc:0 "A syncretic religion centered around the Oracle at Siwa that mixed Hellenic, Berber, and Kemetic practices"
+
+ ammon_pagan_old:0 "Old Ammonism"
+ ammon_pagan_old_adj:0 "Old Ammon"
+ ammon_pagan_old_adherent:0 "Old Ammonite"
+ ammon_pagan_old_plural:0 "Old Ammonites"
+
  # Semitic (formerly Helleno-Semitic)
  semitic_religion:1 "Semitic"
  semitic_religion_adj:1 "Semitic"
@@ -873,16 +915,15 @@
  nabataean_pagan_adherent_plural:0 "Dusharaists"
  nabataean_pagan_desc:0 "The Nabataeans incorporated a variety of gods from other cultures into their Semitic pantheon, particularly the Greek and Roman gods after Nabataea became part of the Roman Empire. The prominence of their chief deity Dushara sets the Nabataeans apart from other ancient Arab peoples, and he was later associated with Zeus (or Jupiter) and Dionysus. Worship of Dushara may have persisted into the early Islamic period."
 
- aksumite_pagan:0 "Aksumitism"
- aksumite_pagan_adj:0 "Aksumitist"
- aksumite_pagan_adherent:1 "Aksumitist"
- aksumite_pagan_adherent_plural:0 "Aksumitists"
- aksumite_pagan_desc:0 "The pantheon of the ancient peoples of Ethiopia bear strong influence from that of the South Arabian kingdoms."
-
- aksumite_pagan_old:0 "Unreformed Aksumitism"
- aksumite_pagan_old_adj:0 "Unreformed Aksumitist"
- aksumite_pagan_old_adherent:1 "Unreformed Aksumitist"
- aksumite_pagan_old_adherent_plural:0 "Unreformed Aksumitists"
+ aksumite_pagan:0 "Mahremism"
+ aksumite_pagan_adj:0 "Mahremist"
+ aksumite_pagan_adherent:1 "Mahremist"
+ aksumite_pagan_adherent_plural:0 "Mahremists"
+ aksumite_pagan_old:0 "Old Mahremism"
+ aksumite_pagan_old_adj:0 "Old Mahremist"
+ aksumite_pagan_old_adherent:1 "Old Mahremist"
+ aksumite_pagan_old_adherent_plural:0 "Old Mahremists"
+ aksumite_pagan_desc:0 "The cults of the ancient Ethiopians bear strong influence from that of the South Arabian kingdoms. The supreme god is Mahrem, son of the god Ashtar; the gods are all called the Sons of the Invincible Mahrem."
 
  south_arabian_pagan:0 "Athtarism"
  south_arabian_pagan_adj:0 "Athtarist"
@@ -900,8 +941,8 @@
  semitic_devil_name:0 "Evil Jinn"
  semitic_devil_name_possessive:0 "Evil Jinns'"
  semitic_evil_god_demons:0 "the Evil Jinns"
- semitic_death_deity_name:0 "Pluto"
- semitic_death_deity_name_possessive:0 "Pluto's"
+ semitic_death_deity_name:0 "Athtar"
+ semitic_death_deity_name_possessive:0 "Athtar's"
  semitic_religious_symbol:0 "statue"
  semitic_religious_text:0 "Corpus Hermeticum"
  semitic_religious_head_title:0 "High Priest"
@@ -943,6 +984,60 @@
  semitic_night_god_name_possessive:0 "Almaqah's"
  semitic_water_god_name:0 "Athtar"
  semitic_water_god_name_possessive:0 "Athtar's" 
+
+ arabic_pagan_high_god_name:0 "Hubal"
+ arabic_pagan_high_god_name_possessive:0 "Hubal's"
+ arabic_pagan_creator_god_name:0 "Hubal"
+ arabic_pagan_creator_god_name_possessive:0 "Hubal's"
+ arabic_pagan_death_deity_name:0 "Hubal"
+ arabic_pagan_death_deity_name_possessive:0 "Hubal's"
+ arabic_pagan_health_god_name:0 "Al-Uzza"
+ arabic_pagan_health_god_name_possessive:0 "Al-Uzza's"
+ arabic_pagan_fertility_god_name:0 "Al-Uzza"
+ arabic_pagan_fertility_god_name_possessive:0 "Al-Uzza's"
+ arabic_pagan_wealth_god_name:0 "Sa'd"
+ arabic_pagan_wealth_god_name_possessive:0 "Sa'd's"
+ arabic_pagan_household_god_name:0 "Nuha"
+ arabic_pagan_household_god_name_possessive:0 "Nuha's"
+ arabic_pagan_fate_god_name:0 "Manat"
+ arabic_pagan_fate_god_name_possessive:0 "Manat's"
+ arabic_pagan_knowledge_god_name:0 "Hubal"
+ arabic_pagan_knowledge_god_name_possessive:0 "Hubal's"
+ arabic_pagan_war_god_name:0 "Allat"
+ arabic_pagan_war_god_name_possessive:0 "Allat's"
+ arabic_pagan_trickster_god_name:0 "Jinn"
+ arabic_pagan_trickster_god_name_possessive:0 "Jinns'"
+ arabic_pagan_night_god_name:0 "Allat"
+ arabic_pagan_night_god_name_possessive:0 "Allat's"
+ arabic_pagan_water_god_name:0 "Hubal"
+ arabic_pagan_water_god_name_possessive:0 "Hubal's" 
+
+ aksumite_pagan_high_god_name:0 "Mahrem"
+ aksumite_pagan_high_god_name_possessive:0 "Mahrem's"
+ aksumite_pagan_creator_god_name:0 "Athtar"
+ aksumite_pagan_creator_god_name_possessive:0 "Athtar's"
+ aksumite_pagan_death_deity_name:0 "Athtar"
+ aksumite_pagan_death_deity_name_possessive:0 "Athtar's"
+ aksumite_pagan_health_god_name:0 "Meder"
+ aksumite_pagan_health_god_name_possessive:0 "Meder's"
+ aksumite_pagan_fertility_god_name:0 "Meder"
+ aksumite_pagan_fertility_god_name_possessive:0 "Meder's"
+ aksumite_pagan_wealth_god_name:0 "Athtar"
+ aksumite_pagan_wealth_god_name_possessive:0 "Athtar's"
+ aksumite_pagan_household_god_name:0 "Meder"
+ aksumite_pagan_household_god_name_possessive:0 "Meder's"
+ aksumite_pagan_fate_god_name:0 "Mahrem"
+ aksumite_pagan_fate_god_name_possessive:0 "Mahrem's"
+ aksumite_pagan_knowledge_god_name:0 "Athtar"
+ aksumite_pagan_knowledge_god_name_possessive:0 "Athtar's"
+ aksumite_pagan_war_god_name:0 "Mahrem"
+ aksumite_pagan_war_god_name_possessive:0 "Mahrem's"
+ aksumite_pagan_trickster_god_name:0 "spirits"
+ aksumite_pagan_trickster_god_name_possessive:0 "spirits'"
+ aksumite_pagan_night_god_name:0 "Ilumquh"
+ aksumite_pagan_night_god_name_possessive:0 "Ilumquh's"
+ aksumite_pagan_water_god_name:0 "Beher"
+ aksumite_pagan_water_god_name_possessive:0 "Beher's" 
 
  harranian_high_god_name:0 "the One"
  harranian_high_god_name_possessive:0 "the One's"
@@ -1102,7 +1197,14 @@
  peristani_witchgodname:0 "Balumain" 
  peristani_witchgodname_possessive:0 "Balumain's" 
 
+
+ ############################################################################################
+ #
  # Holy Sites
+ #
+ ############################################################################################
+
+
  holy_site_harran_name:1 "Harran"
  holy_site_harran_effect_name:0 "From [holy_site|E] #weak ($holy_site_harran_name$)#!"
  holy_site_giza_name:1 "Giza"
@@ -1151,15 +1253,169 @@
  holy_site_ephesos_name:0 "Ephesos"
  holy_site_ephesos_effect_name:0 "From [holy_site|E] #weak ($holy_site_ephesos_name$)#!"
 
- 
- armaz:1 "Armaz"
- armaz_adj:1 "Armaz"
- armaz_adherent:1 "Armazi"
- armaz_adherent_plural:1 "Armazis"
- armaz_desc:1 "Armaz is the adaptation of Zoroastrian beliefs in the territory within and surrounding the Caucasus Mountains."
+ holy_site_siwa_name:0 "Siwa"
+ holy_site_siwa_effect_name:0 "From [holy_site|E] #weak ($holy_site_siwa_name$)#!"
 
- magousaian:1 "Magousaian"
- magousaian_adj:1 "Magousaian"
- magousaian_adherent:1 "Magousaian"
- magousaian_adherent_plural:1 "Magousaians"
- magousaian_desc:1 "The Anatolian variety of Zoroastrianism, dating back to the Achaemenid era, retains a number of conservative features due to isolation from more recent religious developments in Iran. It is also heavily syncretized with Hellenistic and Anatolian polytheism, and frequently uses the Greek language instead of Iranian."
+ # Awjila
+ holy_site_augila_name:0 "Augila"
+ holy_site_augila_effect_name:0 "From [holy_site|E] #weak ($holy_site_augila_name$)#!"
+
+ # Germa
+ holy_site_garama_name:0 "Garama"
+ holy_site_garama_effect_name:0 "From [holy_site|E] #weak ($holy_site_garama_name$)#!"
+
+ # Djerba
+ holy_site_jerba_name:0 "Jerba"
+ holy_site_jerba_effect_name:0 "From [holy_site|E] #weak ($holy_site_jerba_name$)#!"
+
+ # Ammonism
+ ammon_religious_head_title:0 "High Priest of Gurzil"
+ ammon_religious_head_title_name:0 "High Priesthood"
+ d_ammon:0 "Ammonite Council"
+ 
+ # Sardinian Paganism
+
+ sardinian_religion:1 "Sardinian"
+ sardinian_religion_adj:1 "Sardinian"
+ sardinian_religion_adherent:1 "Sardinian"
+ sardinian_religion_adherents_plural:1 "Sardinians"
+ sardinian_religion_desc:1 "The indigenous inhabitants of Sardinia worship gods who are often associated with various animals and symbols of nature, in particular the fertility deities of the male Bull-Sun and the female Water-Moon. Traditionally, islanders would gather throughout the year in holy places like sacred wells to worship."
+ 
+ sardinian_pagan_old:1 "Old Nuragism"
+ sardinian_pagan_old_adj:1 "Old Nuragic"
+ sardinian_pagan_old_adherent:1 "Old Nuragic"
+ sardinian_pagan_old_plural:1 "Old Nuragics"
+
+ sardinian_pagan:0 "Nuragism"
+ sardinian_pagan_adj:0 "Nuragic"
+ sardinian_pagan_adherent:1 "Nuragic"
+ sardinian_pagan_adherent_plural:0 "Nuragics"
+ sardinian_pagan_desc:0 "$sardinian_religion_desc$"
+ 
+ # Illyian Paganism
+ 
+ illyrian_pagan_old:1 "Old Illyrian Paganism"
+ illyrian_pagan_old_adj:1 "Old Tadenusist"
+ illyrian_pagan_old_adherent:1 "Old Tadenusist"
+ illyrian_pagan_old_plural:1 "Old Tadenusists"
+
+ illyrian_pagan:0 "Illyrian Paganism"
+ illyrian_pagan_adj:0 "Tadenusist"
+ illyrian_pagan_adherent:1 "Tadenusist"
+ illyrian_pagan_adherent_plural:0 "Tadenusists"
+ illyrian_pagan_desc:0 "The pantheons of the Illyrian peoples vary greatly from tribe to tribe, and over the centuries, the Illyrians have adopted many deities and beliefs from the Romans, Greeks, Celts, and Thracians. The sun and serpent cults are particularly common among other forms of nature worship."
+
+ illyrian_high_god_name:0 "Deipaturos"
+ illyrian_high_god_name_possessive:0 "Deipaturos'"
+ illyrian_death_deity_name:0 "Pluto"
+ illyrian_death_deity_name_possessive:0 "Pluto's"
+ illyrian_creator_god_name:0 "Deipaturos"
+ illyrian_creator_god_name_possessive:0 "Deipaturos'"
+ illyrian_health_god_name:0 "Thana"
+ illyrian_health_god_name_possessive:0 "Thana's"
+ illyrian_fertility_god_name:0 "Vidasus"
+ illyrian_fertility_god_name_possessive:0 "Vidasus'"
+ illyrian_wealth_god_name:0 "Redon"
+ illyrian_wealth_god_name_possessive:0 "Redon's"
+ illyrian_household_god_name:0 "Tadenus"
+ illyrian_household_god_name_possessive:0 "Tadenus'"
+ illyrian_fate_god_name:0 "Tadenus"
+ illyrian_fate_god_name_possessive:0 "Tadenus'"
+ illyrian_knowledge_god_name:0 "Tadenus"
+ illyrian_knowledge_god_name_possessive:0 "Tadenus'"
+ illyrian_war_god_name:0 "Meudaurus"
+ illyrian_war_god_name_possessive:0 "Meudaurus'"
+ illyrian_trickster_god_name:0 "Tadenus"
+ illyrian_trickster_god_name_possessive:0 "Tadenus'"
+ illyrian_night_god_name:0 "Diana"
+ illyrian_night_god_name_possessive:0 "Diana's"
+ illyrian_water_god_name:0 "Redon"
+ illyrian_water_god_name_possessive:0 "Redon's" 
+
+ holy_site_risinium_name:0 "Risinium"
+ holy_site_risinium_effect_name:0 "From [holy_site|E] #weak ($holy_site_risinium_name$)#!"
+ 
+ # Hypsistarians
+ 
+ hypsistarian_pagan_old:1 "Old Hypsistarianism"
+ hypsistarian_pagan_old_adj:1 "Old Hypsistarian"
+ hypsistarian_pagan_old_adherent:1 "Old Hypsistarian"
+ hypsistarian_pagan_old_plural:1 "Old Hypsistarians"
+
+ hypsistarian_pagan:0 "Hypsistarianism"
+ hypsistarian_pagan_adj:0 "Hypsistarian"
+ hypsistarian_pagan_adherent:1 "Hypsistarian"
+ hypsistarian_pagan_adherent_plural:0 "Hypsistarians"
+ hypsistarian_pagan_desc:0 "The Hypsistarians are an eclectic group of Hellenic pagan sects from Asia Minor and the Black Sea who have been greatly influenced by Jewish ideas. They focus their worship solely on Hypsistos, the "Most High" God, but do not necessarily deny the existence of other gods."
+
+ holy_site_oenoanda_name:0 "Oenoanda"
+ holy_site_oenoanda_effect_name:0 "From [holy_site|E] #weak ($holy_site_oenoanda_name$)#!"
+
+ # Palmyra
+ holy_site_palmyra_name:0 "Palmyra"
+ holy_site_palmyra_effect_name:0 "From [holy_site|E] #weak ($holy_site_palmyra_name$)#!"
+ 
+ palmyrene_pagan_old:1 "Old Palmyrene Paganism"
+ palmyrene_pagan_old_adj:1 "Old Palmyrene"
+ palmyrene_pagan_old_adherent:1 "Old Palmyrene"
+ palmyrene_pagan_old_plural:1 "Old Palmyrenes"
+
+ palmyrene_pagan:0 "Palmyrene Paganism"
+ palmyrene_pagan_adj:0 "Palmyrene"
+ palmyrene_pagan_adherent:1 "Palmyrene"
+ palmyrene_pagan_adherent_plural:0 "Palmyrenes"
+ palmyrene_pagan_desc:0 "Palmyra's pantheon blends together Phoenician, Mesopotamian, Arabic, and Hellenic deities. The chief gods are the triad of Bel, the supreme god, Aglibol, a lunar god, and Malakbel, the sun god. Powerful, wealthy families serve priestly functions, and attnedance at sacred feasts are of paramount soco-religious importance."
+
+ palmyrene_high_god_name:0 "Bel"
+ palmyrene_high_god_name_possessive:0 "Bel's"
+ palmyrene_high_god_alternate_name:0 "Baalshamin"
+ palmyrene_high_god_alternate_name_possessive:0 "Baalshamin's"
+ palmyrene_death_deity_name:0 "Bel"
+ palmyrene_death_deity_name_possessive:0 "Bel's"
+ palmyrene_creator_god_name:0 "Bel"
+ palmyrene_creator_god_name_possessive:0 "Bel's"
+ palmyrene_health_god_name:0 "Malakbel"
+ palmyrene_health_god_name_possessive:0 "Malakbel's"
+ palmyrene_fertility_god_name:0 "Atargatis"
+ palmyrene_fertility_god_name_possessive:0 "Atargatis'"
+ palmyrene_wealth_god_name:0 "Arsu and Azizu"
+ palmyrene_wealth_god_name_possessive:0 "Arsu and Azizu's"
+ palmyrene_household_god_name:0 "Astarte"
+ palmyrene_household_god_name_possessive:0 "Astarte's"
+ palmyrene_fate_god_name:0 "Manawat"
+ palmyrene_fate_god_name_possessive:0 "Manawat's"
+ palmyrene_knowledge_god_name:0 "Nabu"
+ palmyrene_knowledge_god_name_possessive:0 "Nabu's"
+ palmyrene_war_god_name:0 "Allat"
+ palmyrene_war_god_name_possessive:0 "Allat's"
+ palmyrene_trickster_god_name:0 "the ginnaye"
+ palmyrene_trickster_god_name_possessive:0 "the ginnayes'"
+ palmyrene_night_god_name:0 "Aglibol"
+ palmyrene_night_god_name_possessive:0 "Aglibol's"
+ palmyrene_water_god_name:0 "Elqonera"
+ palmyrene_water_god_name_possessive:0 "Elqonera's" 
+
+
+
+ greco_egyptian_pagan:0 "Serapism"
+ greco_egyptian_pagan_adj:0 "Serapist"
+ greco_egyptian_pagan_adherent:0 "Serapist"
+ greco_egyptian_pagan_adherent_plural:0 "Serapists"
+ greco_egyptian_pagan_desc:0 "The Ptolemaic Dynasty developed a pantheon that blended together Hellenic and indigenous Egyptian gods, to unite both Greeks and Egyptians. At the center of this syncretic faith was the sun god Serapis, who was worshipped at special temples called serapeums."
+
+ greco_egyptian_pagan_old:0 "Old Serapism"
+ greco_egyptian_pagan_old_adj:0 "Old Serapist"
+ greco_egyptian_pagan_old_adherent:0 "Old Serapist"
+ greco_egyptian_pagan_old_adherent_plural:0 "Old Serapist"
+
+
+ greco_egyptian_high_god_name:0 "Serapis"
+ greco_egyptian_high_god_name_2:0 "Zeus-Ammon"
+ greco_egyptian_high_god_name_possessive:0 "Serapis'"
+ greco_egyptian_high_god_name_alternate:0 "Zeus-Ammon"
+ greco_egyptian_high_god_name_alternate_possessive:0 "Zeus-Ammon's"
+ greco_egyptian_death_deity_name:0 "Hermanubis"
+ greco_egyptian_death_deity_name_possessive:0 "Hermanubis'"
+ greco_egyptian_knowledge_god_name:0 "Hermes Trismegistus"
+ greco_egyptian_knowledge_god_name_possessive:0 "Hermes Trismegistus'"
+

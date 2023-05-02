@@ -247,7 +247,7 @@
  trade_center_holding_concept_key:0 "Trade Centers"
  game_concept_trade_center_holding:0 "Trade Centers"
  game_concept_trade_center:0 "Trade Centers"
- game_concept_trade_center_desc:0 "Trade Centers are major markets where commercial goods are sold and bought. Trade Centers adds extra [trade_power|E] to it's node"
+ game_concept_trade_center_desc:0 "Trade Centers are major markets where commercial goods are sold and bought. A Trade Center adds extra [trade_power|E] to its node"
 
  building_type_trade_center_01:0 "Trade Center"
  building_type_trade_center_01_desc:1 "Trade Centers are major markets where commercial goods are sold and bought.\n\n#help The Ruler who owns these holdings, gets a bonus to skills#!"

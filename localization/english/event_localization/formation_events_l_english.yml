@@ -2,11 +2,11 @@
 
 # Establishing Supremacy over the Red Sea
  formation_events.0001.t:0 "The Eternal [founder.Custom('GetQueenKing')] of the Red Sea"
- formation_events.0001.desc:0 "The Red Sea has seen so many kings die on its shores, they all fought for gold and saw the control of this wealthy land impossible. They've all failed until today. Today I rise as the supreme Emperor over the Sea. My ports will flourish in gold and no one will stand against my people, this land is ours for the rest of time!"
- formation_events.0001.a:0 "'The Great' they call me, for achieving that which my predecessors failed to."
+ formation_events.0001.desc:0 "The Red Sea has seen many kings die on its shores. They all fought for gold and attempted to control this wealthy land. They've all failed until today. Today, I rise as the supreme ruler over the Sea. My ports will be awash in gold and no one will stand against my people. This land is ours for the rest of time!"
+ formation_events.0001.a:0 "They call me 'The Great' for achieving that which my predecessors failed at."
  formation_events.0001.b:0 "'The Red' is what my subjects call me, for the blood we lost and the sea we gained."
  formation_events.0002.t:0 "$formation_events.0001.t$"
- formation_events.0002.desc:0 "For many years, my liege, [founder.Custom('GetQueenKing')] [founder.GetFirstName], has sought to unite the Sea. And at long last, [founder.GetSheHe] has! Long live!"
+ formation_events.0002.desc:0 "For many years, my liege, [founder.Custom('GetQueenKing')] [founder.GetFirstName], has sought to unite the Sea. At long last, [founder.GetSheHe] has! To their health!"
  formation_events.0002.a:0 "Hail the [founder.GetTitleAsNameNoTooltip]!"
  formation_events.0002.b:0 "A false [founder.Custom('GetQueenKing')], four times over."
  formation_events.0003.t:0 "$formation_events.0001.t$"
@@ -20,7 +20,7 @@
  formation_events.0011.desc:0 "Our people have been scattered for too long. Today we have been united and consolidated under the guidance of [founder.Custom('GetQueenKing')] [founder.GetFirstName]!"
  formation_events.0011.a:0 "May we forever prosper."
  formation_events.0012.t:0 "$formation_events.0011.t$"
- formation_events.0012.desc:0 "Recently, many strides have been taken by my liege, [founder.Custom('GetQueenKing')] [founder.GetFirstName], to consolidate the population. Today it has been done."
+ formation_events.0012.desc:0 "Recently, many strides have been taken by my liege, [founder.Custom('GetQueenKing')] [founder.GetFirstName], to consolidate the realm. Today, it has been done."
  formation_events.0012.a:0 "Hail the [founder.GetTitleAsNameNoTooltip]!"
  formation_events.0012.b:0 "[founder.GetFirstNameNoTooltip]'s attempts to control and subjugate our people will not stand."
  formation_events.0013.t:0 "$formation_events.0011.t$"

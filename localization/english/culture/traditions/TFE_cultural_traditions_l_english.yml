@@ -2,7 +2,7 @@
 
 # Traditions
  tradition_migrations_name:0 "Migrators"
-  tradition_migrations_desc:1 "This culture considers migrating to fertile and lush lands as a part of its core is a very integral part of their lives." 
+  tradition_migrations_desc:1 "This culture considers migrating to fertile and lush lands as an integral part of their lives." 
   culture_parameter_unlock_germanic_migration_cb:0 "Unlocks the Migration CB"
 
  tradition_varangians_name:0 "Varangian Adventurers"
@@ -11,26 +11,28 @@
   culture_parameter_unlock_fp1_dynasty_legacies:0 "Unlocks the Adventure and Pillage dynasty legacies"
 
  tradition_roman_hubris_name:0 "Roman Hubris"
-  tradition_roman_hubris_desc:1 "The Romans consider themselves as the shining beacon of civilisation and other barbaric cultures as inferior when compared to them."
+  tradition_roman_hubris_desc:1 "The Romans consider themselves a shining beacon of civilisation and other barbaric cultures as inferior."
   culture_parameter_unlock_maa_palatinae:0 "Can recruit [GetMaA('palatinae').GetName] as [men_at_arms|E]"
   culture_parameter_unlock_maa_comitatenses:0 "Can recruit [GetMaA('comitatenses').GetName] as [men_at_arms|E]"
   culture_parameter_hybridize_keep_heritage:0 "Must keep its [heritage|E] when forming a [hybrid_culture|E]"
   HYBRIDIZE_KEEP_HERITAGE_MUST_KEEP_SAME_HERITAGE:0 "Not keeping the same [heritage|E] when forming a [hybrid_culture|E]"
 
+  culture_parameter_unlock_maa_clibanarius:0 "Can recruit [GetMaA('clibanarius').GetName] as [men_at_arms|E]"
+
  tradition_nomadic_migrations_name:0 "Nomadic Migrators"
-  tradition_nomadic_migrations_desc:1 "This culture considers migrating to fertile and lush lands as a part of its core is a very integral part of their lives." 
+  tradition_nomadic_migrations_desc:1 "This culture considers migrating to fertile and lush lands as an integral part of their lives." 
   culture_parameter_unlock_nomadic_migration_cb:0 "Unlocks the Nomadic Migration CB"
  
  tradition_bread_and_circuses_name:0 "Bread and Circuses"
-  tradition_bread_and_circuses_desc:0 "Already long ago, from when we sold our vote to no man, the People have abdicated our duties; for the People who once upon a time handed out military command, high civil office, legions — everything, now restrains itself and anxiously hopes for just two things: bread and circuses."
+  tradition_bread_and_circuses_desc:0 "Already long ago, from when we sold our vote to no man, the People have abdicated our duties; for the People who once upon a time handed out military command, high civil office, legions — everything, now, restrains itself and anxiously hopes for just two things: bread and circuses."
   culture_parameter_can_sell_warriors_gladiators:0 "[rulers|E] can sell lowborn [prisoners|E] as Gladiators for money\n#F Only Prisoners with at least 8 [prowess|E] can be sold. The higher the Prowess, the higher the price.#!"
-  culture_parameter_can_use_distribute_bread_decision:0 "[rulers|E] can use the #V Distribute Bread#! [decision|E]\n#F Spend money in exchange for [county_opinion|E] and preventing popular uprisings.#!"
+  culture_parameter_can_use_distribute_bread_decision:0 "[rulers|E] can use the #V Distribute Bread#! [decision|E]\n#F Spend money in exchange for [county_opinion|E] and prevent popular uprisings.#!"
   culture_parameter_can_use_sponsor_gladiator_games_decision:0 "[rulers|E] can use the #V Sponsor Gladiator Games#! [decision|E]\n#F Spend money in exchange for [county_opinion|E] and [prestige_i|E][prestige|E].#!"
  
  culture_parameter_powerful_rulers_raise_legions:0 "Powerful rulers of this [culture|E] can delegate some of their [counties|E] to form [legions|E]"
  
  tradition_roman_architecture_name:0 "Roman Architecture"
-  tradition_roman_architecture_desc:0 "Add flavor"
+  tradition_roman_architecture_desc:0 "Although many Roman structures were actually invented far before their time, the Empire's emphasis on large scale public works and military engineering feats was unmatched in Europe."
   culture_parameter_enable_grand_aqueduct_building:0 "[rulers|E] can construct the #high $building_type_grand_aqueduct_01$#! [duchy_building|E]\n#F $building_type_grand_aqueduct_01$ increase Development growth and Popular Opinion throughout the whole Duchy, and raise the maximum [existing_development|E] in all Counties within the Duchy.#!"
   culture_parameter_bonuses_from_architect_trait:0 "The [GetTrait('architect').GetName( GetNullCharacter )] [traits|E] have additional bonuses"
   culture_parameter_bonuses_from_military_engineer_trait:0 "The [GetTrait('military_engineer').GetName( GetNullCharacter )] [traits|E] have additional bonuses"
@@ -49,7 +51,7 @@
   culture_parameter_unlock_maa_chakar:0 "Can recruit [GetMaA('chakar').GetName] as [men_at_arms|E]" 
 
  tradition_sacred_springs_name:0 "Sacred Springs"
-  tradition_sacred_springs_desc:0 "Although natural sources of water are often important and sacred sites to many people around the world, this culture takes it to another level - no matter their faith, people of this culture have longstanding various traditions of venerating or going on pilgrimage to specific sacred springs and holy wells."
+  tradition_sacred_springs_desc:0 "Although natural sources of water are often important sacred sites to many people around the world, this culture takes it to another level - no matter their faith, people of this culture have longstanding various traditions of venerating or going on pilgrimages to specific sacred springs and holy wells."
   culture_in_sacred_springs_terrain_desc:0 "The [culture|E] is not present in any [county|E] with Forest, Jungle, Farmland, Floodplain, or Wetland [terrain|E]"
   sacred_springs_terrain_percentage_desc:0 "The [culture|E] does not have #V 30%#! of its [counties|E] in Forest, Jungle, Farmland, Floodplain, or Wetland [terrain|E]"
   culture_parameter_unlock_sacred_springs_decisions:0 "Can take the [decisions|E] to Consecrate a Holy Well or Visit a Holy Well"
@@ -58,24 +60,44 @@
  tradition_amber_traders_name:0 "Amber Traders"
 
  tradition_desert_horsemen_name:0 "Saharan Horsemen"
-  tradition_desert_horsemen_desc:0 "Eversince the introduction of the horse to the region, lightly-armored cavalrymen have played an overwhelming role in the Sahara, from Ghanaian knights to the very famous Numidian Cavalry, the very tip of the Roman army in the Punic Wars."
+  tradition_desert_horsemen_desc:0 "Ever since the introduction of the horse to the region, lightly-armored cavalrymen have played an important role in the Sahara, from Ghanaian knights to the famed Numidian Cavalry, the tip of the Roman army in the Punic Wars."
   culture_parameter_unlock_maa_desert_hussar:0 "Can recruit swift [GetMaA('desert_hussar').GetName] [men_at_arms|E]"
   desert_hussar:0 "Sahara Horsemen"
   desert_hussar_flavor:0 "Lightly armored, javelin-yielding horsemen from the Sahara"
  tradition_african_agriculture_name:0 "African Agriculture"
   tradition_african_agriculture_desc:0 "The province of Africa was often nicknamed "the granary of the Empire", in ferocious competition with Egypt. Africa would not only produce enormous amounts of wheat but also figs, dates and even a variety of animal produce."
  tradition_desert_wonders_name:0 "Cities of the Desert"
-  tradition_desert_wonders_desc:0 "The Garamantes, through an elaborate system of canals and wells, the fugharas or foggaras, managed to build marvelous cities in the Libyan desert, like their capital, Garama, whose hazardous emplacement safeguarded the people. They would often raid the Limes Tripolitanus from the swiftness of first chariots then horses and the safety of the desert. The city only fell to Rome once and was quickly recovered by the Garamantian Kingdom, still marking an inevitable decline due to the non-renewability of the water sources and the progress of the Sahara desert."
+  tradition_desert_wonders_desc:0 "The Garamantes managed to build marvelous cities in the Libyan desert, like their capital, Garama, through an elaborate system of canals and wells called the fugharas or foggaras, whose hazardous emplacement safeguarded their people. They would often raid the Limes Tripolitanus, utilizing the swiftness of chariots, horses and the safety of the desert. The city only fell to Rome once and was quickly recovered by the Garamantian Kingdom, although the city inevitably declined due to the non-renewability of the water sources and the progression of the Sahara desert."
 
  tradition_mard_o_mard_name:0 "Mard-O-Mard"
-  tradition_mard_o_mard_desc:0 "Centuries of cosmopolitan Iranian empires have led to the development of powerful and diverse military units, that mainly relies on the powerful heavily armoured cavalry and feared bowmen, though the army still rellies on imported warriors from Daylam and the terrifying Elephants of India as well. The feats and skills of these brave soldiers have given rise to #italic Mard-o-mard#!, an ancient tradition of single combat that is immortalized in Iranian art and literature."
+  tradition_mard_o_mard_desc:0 "Centuries of cosmopolitan Iranian empires have led to the development of a powerful and diverse army that mainly relies on heavily armoured cavalry and expert bowmen, supplemented by warriors from Daylam and terrifying elephants from India. The feats and skills of these brave soldiers have given rise to #italic Mard-o-mard#!, an ancient tradition of single combat that is immortalized in Iranian art and literature."
   culture_parameter_unlock_maa_kamandaran:0 "Can recruit [GetMaA('kamandaran').GetName] as [men_at_arms|E]"
-  culture_parameter_unlock_eranian_specialists:0 "Can acces special units from vassalized regions via decision if they are an [empire|E] and have Eranshar Government."
+  culture_parameter_unlock_eranian_specialists:0 "Can access special units from vassalized regions via decision if they are an [empire|E] and have Eranshar Government."
+  culture_parameter_unlock_maa_savran:0 "Can recruit [GetMaA('savran').GetName] as [men_at_arms|E]"
 
  tradition_warriors_of_alborz_name:0 "Warriors of Alborz"
-  tradition_warriors_of_alborz_desc:0 "The powerfull men of the Alborz range are acostumed to a rough life and even rougher battles. They are skilled and highly trained for mountainous warfare."
+  tradition_warriors_of_alborz_desc:0 "The powerful men of the Alborz range are accustomed to a rough life and even rougher battles. They are highly skilled and trained for mountainous warfare."
   culture_parameter_unlock_maa_daylami:0 "Can recruit [GetMaA('daylami').GetName] as [men_at_arms|E]"
-# Scripts
+
+  tradition_servile_soldiers_name:0 "Slave Raiders"
+  tradition_servile_soldiers_desc:0 "Women and children, are they not precious booty for the Ausurians? The women will give birth to auxiliaries for them; the children, when they grow up, will go with them into battle; because we attach ourselves to those who nourished us more than to those who gave birth to us. O pain! - Synesios of Cyrene, 5th century CE"
+  culture_parameter_unlock_maa_servile_soldiers:0 "Can recruit [GetMaA('servile_soldiers').GetName] as [men_at_arms|E]"
+  culture_parameter_slave_raid_cb_active:0 "Unlocks the Slave Raid [casus_bellis|E]"
+
+  tradition_underground_cities_name:0 "Underground Cities"
+  tradition_underground_cities_desc:0 "This culture has carved out vast, interconnected caverns in the mountains of Cappadocia for centuries. These caverns are so vast that they are in truth more like underground cities. Highly defensible, they are often filled with booby traps and other terrifying surprises awaiting any armies foolish enough to attack them."
+
+  tradition_sardinian_barbarians_name:0 "Latrones Mastrucati"
+  tradition_sardinian_barbarians_desc:0 "The natives of Sardinia were despised by the Romans for centuries as devious barbarians and unreliable slaves; Cicero, for example, called them #italic latrones mastrucati#!, or "thieves with rough wool cloaks." Whatever the truth of the matter, the native Sardinians are a rugged people who will raid and plunder more powerful foes just as fiercely as they will defend their homelands from these foreign threats."
+
+  tradition_orpheus_name:0 "Songs of Orpheus"
+  tradition_orpheus_desc:0 "The legendary Orpheus was the son of a Thracian king. The people of this culture, as the cultural heirs of Orpheus, continue to honor his memory through their ability in song and poetry."
+
+ # Misc
+ cannot_have_tradition_orpheus:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_orpheus_name$#!"
+ cannot_have_tradition_music_theory:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_music_theory_name$#!"
+
+ # Scripts
  LITERATE:0 "Is literate"
  LITERATE_FIRST:0 "I am literate"
  LITERATE_THIRD:0 "[CHARACTER.GetName] is literate"

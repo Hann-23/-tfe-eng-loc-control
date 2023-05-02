@@ -17,6 +17,8 @@
    disaster.edessa.secured.heavy.2:0 "This city is undergoing restoration"
    disaster.edessa.secured.light.2:0 "Humanitarian efforts are taking place"
    edessa_rebuilt:0 "The city has been rebuilt"
+   county_raised_monument_modifier:0 "Monument"
+   county_built_djeddar_modifier:0 "Djeddar"
  # Province Modifiers
   disaster_random_avalanche:0 "An avalanche fell on this land"
   disaster_random_landslide:0 "A landslide wrecked the county"
@@ -47,3 +49,16 @@
  rebellious_people:0 "Rebellious"
 
  carrhae_avenged:0 "Carrhae Avenged"
+
+ unruly_lords:0 "Unruly Lords"
+ bought_out_retinue:0 "Bought Out Retinue"
+ salaries_increased:0 "Salaries Increased"
+ missing_scholars:0 "Missing Scholars"
+ sown_dissent_opinion:0 "Sown Dissent"
+ new_markets:0 "New Markets"
+ new_forests:0 "New Forests"
+ field_workers:0 "Many Field Workers"
+ increased_traders:0 "Increased Trade"
+ increased_field_workers:0 "Increased Farming"
+ senators_solved_popular_issues:0 "Senators Solved Popular Issues"
+ withheld_bread_modifier:0 "Withheld Bread"

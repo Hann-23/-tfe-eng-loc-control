@@ -31,6 +31,11 @@
  culture_parameter_unlock_maa_mountaineer:0 "Can recruit [GetMaA('mountaineer').GetName] as [men_at_arms|E]"
  culture_parameter_unlock_maa_abudrar:0 "Can recruit [GetMaA('abudrar').GetName] as [men_at_arms|E]"
  culture_parameter_unlock_maa_palace_guards:0 "Can recruit [GetMaA('palace_guards').GetName] as [men_at_arms|E]"
+
+ culture_parameter_unlock_tfe_maa_protostates:0 "Can recruit [GetMaA('tfe_maa_protostates').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_tfe_maa_byz_archers:0 "Can recruit [GetMaA('tfe_maa_byz_archers').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_tfe_maa_hippo_toxotai:0 "Can recruit [GetMaA('tfe_maa_hippo_toxotai').GetName] as [men_at_arms|E]"
+ culture_parameter_unlock_tfa_maa_byz_archers:0 "Can recruit [GetMaA('tfe_maa_byz_archers').GetName] as [men_at_arms|E]"
  
  #Military
  tradition_hird_name:0 "$innovation_hird$"
@@ -54,7 +59,7 @@
  innovation_pike_columns_desc:0 "Pikemen have always been strong defenders, but they have historically lacked in mobility and offense. Devising new formations to address this deficiency will improve our chances of victory in battle."
 
  innovation_legionnaires:0 "Legionnaires"
- innovation_legionnaires_desc:1 "Just as we have restored the Roman empire, so too shall restore the structure of the old Roman legion and its feared elite troops!"
+ innovation_legionnaires_desc:1 "Just as we have restored the Roman empire, so too shall we restore the structure of the old Roman legion and its feared elite troops!"
 
  innovation_desert_tactics:0 "Desert Tactics"
  innovation_desert_tactics_desc:0 "The Levant is an unfamiliar place with poor terrain for cavalry charges. We should adapt to these lands and field cavalry which is better suited to fight in our new home."
@@ -169,19 +174,19 @@
  innovation_comitatenses_desc:0 "During the reign of Diocletian, many reforms were put into place to drastically change how the army fought in the field. The main elite fighting part of legions - which were now called Comitatenses - were put into reserve units, while the border troops kept the peace and did most of the work of infantry units of old."
  
  innovation_palatinae:0 "Palatinae"
- innovation_palatinae_desc:0 "Palatinae, or Palace Guards, were the most elite and veteran of troops loyal directly to the Emperor himself. Effective with sword and shield, these men can break through any line."
+ innovation_palatinae_desc:0 "Palatinae, or Palace Guards, were the most elite and veteran troops directly loyal to the Emperor himself. Effective with sword and shield, these men can break through any line."
  
  #Bri'ish maa 
  innovation_cymbrogi:0 "Cymbrogi Warriors"
- innovation_cymbrogi_desc:0 "By Mantaining a good relationship with our peasents and providing them with the apropiate equipment, we can make the finest and most loyal of soldiers"
+ innovation_cymbrogi_desc:0 "By maintaining a good relationship with our peasents and providing them with the appropiate equipment, we can make them the finest and most loyal of soldiers"
  innovation_gaelic_warbands:0 "Gaelic Warband"
- innovation_gaelic_warbands_desc:0 "The wet marshes of Éiru have allways been well known to the Gaels, as such, their local warbands are skilled warriors, if we used them in the apropiate terran"
+ innovation_gaelic_warbands_desc:0 "The wet marshes of Éiru have always been well known to the Gaels. As such, their local warbands are skilled warriors, able to be used well in their native terrain"
  innovation_pictish_warbands:0 "Pictish Warband"
- innovation_pictish_warbands_desc:0 "The Harsh Terrain of Pictland has shaped the pictish warrior to become the fiersest warriors of the land. The mountainous landscape will allways play in their advantage!"
+ innovation_pictish_warbands_desc:0 "The harsh terrain of Pictland has shaped the Picts to become the fiercest warriors of the land. A mountainous landscape will always play to their advantage!"
  innovation_brythonic_warbands:0 "brythonic Warband"
- innovation_brythonic_warbands_desc:0 "Alltho the British tribes have lost their ancient charrotier ways, the skirmishers of old still dwell in the forest of Britannia"
+ innovation_brythonic_warbands_desc:0 "Although the British tribes have lost their ancient charioteer ways, the skirmishers of old still dwell in the forests of Britannia"
  innovation_cantabrian_warbands:0 "Cantabrian Warband"
- innovation_cantabrian_warbands_desc:0 "The Celtic tribes of Northern Hispania have remained fairly unromanized, as such they keep their old military traditions. They are among the fearsest tribes of the Roman world"
+ innovation_cantabrian_warbands_desc:0 "The Celtic tribes of Northern Hispania have remained fairly unromanized and have kept their old military traditions. They are among the fiercest tribes of the Roman world"
 
  ### Iron Age Innos
  innovation_war_dogs:0 "War Dogs"
@@ -189,9 +194,30 @@
  innovation_siege_towers:0 "Siege Towers"
  innovation_siege_towers_desc:0 "Built with strong wood and metals, we can create a strong, sturdy tower that can penetrate walls easier than the methods of our fathers."
  innovation_tribal_duties:0 "Tribal Duties"
- innovation_tribal_duties_desc:0 "Through our familiar bonds we are united as one. We are all part of the community, and together we shall defend it!"
+ innovation_tribal_duties_desc:0 "Through our tribal bonds we are united as one. We are all part of the community, and together we shall defend it!"
  innovation_tanning_tables:0 "Tanning Tables"
- innovation_tanning_tables_desc:0 "By crafting high quality leather utensils for our warriors, we can ensure their equipment is on point"
+ innovation_tanning_tables_desc:0 "By crafting high quality leather tools for our warriors, we can ensure their equipment is on point"
 
 innovation_raiding_vessels:0 "Raiding Vessels"
-innovation_raiding_vessels_desc:0 "The tribes of the Albion are thirsty for bouny. While there are plenty of treasures in their own lands, better oportunities await outside the reach of a raiding party"
+innovation_raiding_vessels_desc:0 "The tribes of the Albion are thirsty for bounty. While there are plenty of treasures in their own lands, better opportunities await within the reach of a raiding party"
+
+innovation_african_horse_archers:0 "African Horse Archers"
+innovation_african_horse_archers_desc:0 "Mounted archers provide a potent mix of mobility, range, and damage output. While the horse archers of the steppes may be more famous, the ones of West and Central Africa are no less deadly."
+
+innovation_camel_horse_archers:0 "Camel Archers"
+innovation_camel_horse_archers_desc:0 "The camel is particularly suited to desert and dryland warfare. If we mount archers on camels, we will become nigh unstoppable!"
+
+innovation_african_pikemen:0 "Long-Shield Bearers"
+innovation_african_pikemen_desc:0 "You can't take an arrow to the knee if your shield is large enough."
+
+tradition_tfe_byzantine_army_name:0 "Byzantine Army"
+tradition_tfe_byzantine_army_desc:0 "The army traditions of the Eastern Roman Empire live within this culture."
+
+tfe_maa_protostates:0 "Protostates"
+tfe_maa_protostates_flavor:0 "A heavily armored and armed spear unit, fighting in a formation that resembles the phalanx of old. With a new doctrine, hard training and many drills, they mastered a more open formation that allows them to brace any charge but also act offensively."
+
+tfe_maa_byz_archers:0 "Byzantine Archers"
+tfe_maa_byz_archers_flavor:0 "These men are armored archers, capable of raining death from above while also holding their own in close quarter combat. Rather than relying on mass volleys, these professional soldiers make use of their superior accuracy and punchthrough."
+
+tfe_maa_hippo_toxotai:0 "Hippo-Toxotai"
+tfe_maa_hippo_toxotai_flavor:0 "Amored horse archers, fighting with hunnic style tactics, these riders tear their enemies apart before the main body of cavalry hits."

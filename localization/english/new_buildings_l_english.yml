@@ -78,7 +78,7 @@
 
  building_type_dolaucothi_gold_mines_01:0 "Dolaucothi Gold Mines"
  building_type_dolaucothi_gold_mines_01_desc:0 "The only Roman gold mine of Britain, the Dolaucothi gold mines are a prized and important location in Roman Britannia. As long as Roman forces are on the island, the mines will supply the province with gold."
- building_type_dolaucothi_gold_mines_warning:0 "#N Should the Roman Empire withdraw from Britannia or lose control of the province holding the mine, the infrastructure to support them will be abandonned. Only a non-[tribal|E] ruler whose [culture|E] has unlocked the #V $innovation_crop_rotation$#! [innovation|E] will be able to re-open it.#!"
+ building_type_dolaucothi_gold_mines_warning:0 "#N Should the Roman Empire withdraw from Britannia or lose control of the province holding the mine, the infrastructure to support them will be abandoned. Only a non-[tribal|E] ruler whose [culture|E] has unlocked the #V $innovation_crop_rotation$#! [innovation|E] will be able to re-open it.#!"
  building_dolaucothi_gold_mines_01:0 "Dolaucothi Mining Settlement"
  building_dolaucothi_gold_mines_01_desc:0 "$building_rammelsberg_mines_01_desc$\n\n$building_type_dolaucothi_gold_mines_warning$"
  building_dolaucothi_gold_mines_02:0 "Dolaucothi Mine"
@@ -91,13 +91,13 @@
 
   building_type_carnelian_amazonite_mines_01:0 "Carnelian and Amazonite Mines"
    building_carnelian_amazonite_mines_01:0 "Carnelian and Amazonite Mines"
-   building_carnelian_amazonite_mines_01_desc:0 "Withing the mountains of the Sahara mountains, fromthe Tassili n'Ajjer to the Tibesti Mountains, are ancient, deep and profitable mines of amazonite, a bright blue turquoie and carnelian, a deep orange chalcedony. These were most likely opened by the Garamantes and it has been very hard to pinpoint their origin."
+   building_carnelian_amazonite_mines_01_desc:0 "Within the mountains of the Sahara mountains, from the Tassili n'Ajjer to the Tibesti Mountains, are ancient, deep and profitable mines of amazonite, a bright blue turquoie and carnelian, a deep orange chalcedony. These were most likely opened by the Garamantes and it has been very hard to pinpoint their origin."
    building_carnelian_amazonite_mines_02:0 "Carnelian and Amazonite Mines"
-   building_carnelian_amazonite_mines_02_desc:0 "Withing the mountains of the Sahara mountains, fromthe Tassili n'Ajjer to the Tibesti Mountains, are ancient, deep and profitable mines of amazonite, a bright blue turquoie and carnelian, a deep orange chalcedony. These were most likely opened by the Garamantes and it has been very hard to pinpoint their origin."
+   building_carnelian_amazonite_mines_02_desc:0 "Within the mountains of the Sahara mountains, from the Tassili n'Ajjer to the Tibesti Mountains, are ancient, deep and profitable mines of amazonite, a bright blue turquoie and carnelian, a deep orange chalcedony. These were most likely opened by the Garamantes and it has been very hard to pinpoint their origin."
    building_carnelian_amazonite_mines_03:0 "Carnelian and Amazonite Mines"
-   building_carnelian_amazonite_mines_03_desc:0 "Withing the mountains of the Sahara mountains, fromthe Tassili n'Ajjer to the Tibesti Mountains, are ancient, deep and profitable mines of amazonite, a bright blue turquoie and carnelian, a deep orange chalcedony. These were most likely opened by the Garamantes and it has been very hard to pinpoint their origin."
+   building_carnelian_amazonite_mines_03_desc:0 "Within the mountains of the Sahara mountains, from the Tassili n'Ajjer to the Tibesti Mountains, are ancient, deep and profitable mines of amazonite, a bright blue turquoie and carnelian, a deep orange chalcedony. These were most likely opened by the Garamantes and it has been very hard to pinpoint their origin."
    building_carnelian_amazonite_mines_04:0 "Carnelian and Amazonite Mines"
-   building_carnelian_amazonite_mines_04_desc:0 "Withing the mountains of the Sahara mountains, fromthe Tassili n'Ajjer to the Tibesti Mountains, are ancient, deep and profitable mines of amazonite, a bright blue turquoie and carnelian, a deep orange chalcedony. These were most likely opened by the Garamantes and it has been very hard to pinpoint their origin."
+   building_carnelian_amazonite_mines_04_desc:0 "Within the mountains of the Sahara mountains, from the Tassili n'Ajjer to the Tibesti Mountains, are ancient, deep and profitable mines of amazonite, a bright blue turquoie and carnelian, a deep orange chalcedony. These were most likely opened by the Garamantes and it has been very hard to pinpoint their origin."
 
 
   building_type_edessa_cathedral_01:0 "The Cathedral of Edessa"
@@ -115,10 +115,10 @@
   building_type_marib_dam_desc:0 "The Mar'ib Dam was a feat of classical engineering for the Kingdoms of Saba and Himyar. Said to be the oldest known hydraulic dam, Mar'ib has been restored on several occassions during its lifetime."
 
   building_great_gurgan_wall:0 "The Great Gorgan Wall"
-  building_great_gurgan_wall_desc:0 "Larger than Hadrian's Wall and the Antonine Wall taken together, The Gorgan wall keeps away the nomadic tribes of the north and any other foe that dares to attack Ērān."
+  building_great_gurgan_wall_desc:0 "Larger than Hadrian's Wall and the Antonine Wall taken together, The Gorgan Wall keeps away the nomadic tribes of the north and any other foe that dares to attack Ērān."
 
   building_type_great_gurgan_wall:0 "The Great Gorgan Wall"
-  building_type_great_gurgan_wall_desc:0 "Larger than Hadrian's Wall and the Antonine Wall taken together, The Gorgan wall keeps away the nomadic tribes of the north and any other foe that dares to attack Ērān."
+  building_type_great_gurgan_wall_desc:0 "Larger than Hadrian's Wall and the Antonine Wall taken together, The Gorgan Wall keeps away the nomadic tribes of the north and any other foe that dares to attack Ērān."
 
   building_palace_khawarnaq:0 "The Khawarnaq Palace"
   building_palace_khawarnaq_desc:0 "Built by the Lakhmids during the reign of King al-Nu'man 'The One Eyed,' the Palace at Khawarnaq was considered by Arab contemporaries as one of the great wonders of the world."
@@ -131,14 +131,14 @@
   building_taq-kasra_desc:0 "Built some time between the 2nd and 6th centuries AD, the Arch of Tisfun was a defining feature of the palace complex located in the Sassanian capital, likely even marking the site of the Ērānian throne room."
 
   building_oblivion_prison:0 "Fortress of Oblivion"
-  building_oblivion_prison_desc:0 "The Fortress of Oblivion also known as the Castle of Oblivion was a castle and political prison of the Sasanian Empire located in Khuzestan and held many notable enemies of the shah."
+  building_oblivion_prison_desc:0 "The Fortress of Oblivion, also known as the Castle of Oblivion, was a castle and political prison of the Sasanian Empire located in Khuzestan and held many notable enemies of the shah."
 
   building_type_oblivion_prison:0 "Fortress of Oblivion"
-  building_type_oblivion_prison_desc:0 "The Fortress of Oblivion also known as the Castle of Oblivion was a castle and political prison of the Sasanian Empire located in Khuzestan and held many notable enemies of the shah."
+  building_type_oblivion_prison_desc:0 "The Fortress of Oblivion, also known as the Castle of Oblivion, was a castle and political prison of the Sasanian Empire located in Khuzestan and held many notable enemies of the shah."
  
  building_type_real_hadrians_wall_01:0 "Hadrian's Wall"
  building_type_real_hadrians_wall_01_desc:0 "Hadrian's Wall was built during Roman times to keep the northern Picts out of the province of Britannia. While the Roman presence in the province won't last eternally, as long as Roman soldiers man Hadrian's Wall, northern raiders will have a harder time pillaging the province."
- building_type_real_hadrians_wall_warning:0 "#N Should the Roman Empire withdraw from Britannia or lose control of the province holding the Wall, the infrastructure to support it will be abandonned.#!"
+ building_type_real_hadrians_wall_warning:0 "#N Should the Roman Empire withdraw from Britannia or lose control of the province holding the Wall, the infrastructure to support it will be abandoned.#!"
  building_real_hadrians_wall_01:0 "$building_type_real_hadrians_wall_01$"
  building_real_hadrians_wall_01_desc:0 "$building_type_real_hadrians_wall_01_desc$\n\n$building_type_real_hadrians_wall_warning$"
 
@@ -147,10 +147,10 @@
  building_estate_01:0 "Labor Fields"
  building_estate_01_desc:0 "A property that requires a labor force to work and tend to its fields."
  building_type_estate_02:0 "Small Manor"
- building_type_estate_02_desc:0 "Our Small Manor are so amazing and great that any serf can see the greatness of our family name just by looking to our residence. It is indeed a powerfull and meaningfull center of wealth." #needs change
- building_estate_02:0 "Small Acomodations"
- building_estate_02_desc:0 "By acmodating our serfs into bigger homesteads we can ensure they will bring more serfs into this world, enlarging our work force and ultimately, our wealth." #needs change
+ building_type_estate_02_desc:0 "Our small manor is so amazing and great that any serf can see the greatness of our family name just by looking to our residence. It is indeed a powerful and meaningful center of wealth." #needs change
+ building_estate_02:0 "Small Accommodations"
+ building_estate_02_desc:0 "By accommodating our serfs into bigger homesteads, we can ensure they will bring more serfs into this world, enlarging our work force and ultimately, our wealth." #needs change
  building_type_estate_03:0 "Palace"
- building_type_estate_03_desc:0 "No other estate owners can take pride in their homesteads when compared to ours. Everyday, caravans of slaves, animals, grain and gold go through our Palace, it truly is a magnificent display of our renown." #needs change
+ building_type_estate_03_desc:0 "No other estate owner can take pride in their homestead when compared to ours. Everyday, caravans of slaves, animals, grain and gold go through our palace. It truly is a magnificent display of our renown." #needs change
  building_estate_03:0 "Taxing Office"
- building_estate_03_desc:0 "By ensuring the grain and tribute our serfs pay to us is well administred, we will ensure our coffers keep getting filled!" #needs change
+ building_estate_03_desc:0 "By ensuring the grain and tribute our serfs pay to us is well administered, we will ensure our coffers will always be full!" #needs change
