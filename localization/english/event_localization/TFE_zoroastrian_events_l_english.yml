@@ -1,0 +1,18 @@
+﻿l_english:
+
+# Mazdak
+TFE_zoroastrian.0001.t:0 "Fresh Ideas outside of $c_ctesiphon$"
+TFE_zoroastrian.0001.desc:0 "Rumours have made my court that a man that goes by the name of #italic Mazdak #! has reached an impressive amount of following over the last few days. Of Persian stock, he was blessed with the task of reciting the [ROOT.Char.GetFaith.ReligiousText]. While a bright man of [ROOT.Char.GetFaith.HighGodName], he has taken it upon himself to reinterpret the old teachings of the [ROOT.Char.GetFaith.ReligiousText] and is now preaching in $b_an-numaniya$ a fresh take on them. \n\nAcording to #italic Mazdak #!, we should express our faith in brotherly love and in making sure all men and women are treated equally and with respect!"
+TFE_zoroastrian.0001.a:0 "Actually he might be right..."
+TFE_zoroastrian.0001.b:0 "What an impressive man! Bring him into court!"
+TFE_zoroastrian.0001.c:0 "What kind of buffoon would listen him?"
+
+TFE_zoroastrian.0004.t:0 "Zoroastrians in Daylam"
+TFE_zoroastrian.0004.desc:0 "Rumors have made my court that many villages and people have recently converted to zoroastrianism in our region.\nAfter the fall of $k_mesopotamia$ to islam, many people in the north, with no spiritual guides, held on to this new faith when it appeared in the region. Similar to mazdakism, this faith believes in pacifism and reincranation after death.\n\nThese new people seem to not want to be held under a non-zoroastrian yoke and should be handled carefully."
+TFE_zoroastrian.0004.a:0 "Actually they might be right..."
+TFE_zoroastrian.0004.c:0 "What kind of buffoon would believe in this?"
+
+TFE_zoroastrian.0006.t:0 "Zoroastrians in Daylam"
+TFE_zoroastrian.0006.desc:0 "Rumors have made my courthat a man that goes by the name of #italic Behafarid #! has reached an impressive amount of following in our region.\nAfter the fall of $k_mesopotamia$ to islam, many people in the north, with no spiritual guides, held on to this new faith when it appeared in the region. Influenced by islam, this faith believes in vows of poverty and sky burials after death.\n\nThese new people seem to not want to be held under a non-zoroastrian yoke and should be handled carefully."
+TFE_zoroastrian.0006.a:0 "Actually he might be right..."
+TFE_zoroastrian.0006.c:0 "What kind of buffoon would believe in this?"

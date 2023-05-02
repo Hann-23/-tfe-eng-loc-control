@@ -1,0 +1,7 @@
+﻿l_english:
+ move_to_ravenna_decision:0 "Move the Capital to Ravenna"
+ move_to_ravenna_decision_desc:0 "In 402 AD, Emperor Honorius transferred the capital of the Western Roman Empire from Mediolanum to Ravenna, primarily due to its more sufficient means of defense provided by proliferous swampland and resting near the shores of the Adriatic Sea."
+ move_to_ravenna_decision_tooltip:0 "Moving your Capital will cause you to lose all titles in Liguria and the Proconsol of Flaminia et Picenum to lose all of theirs in a swap."
+ move_to_ravenna_decision_confirm:0 "Move to Ravenna"
+ ravenna_walls_decision:0 "The defences of Ravenna have been shored up."
+ milano_walls_decision:0 "The defences of Mediolanum have been reduced."

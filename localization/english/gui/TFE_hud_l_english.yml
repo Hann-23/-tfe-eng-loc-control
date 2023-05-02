@@ -1,0 +1,11 @@
+﻿l_english:
+ SENATE_HUD_TOOLTIP:0 "#T Imperial Senate#"
+ SENATE_HUD_TOOLTIP_desc:0 "By the dawn of the 5th century AD, the Senate had lost most of its authority through centuries of reforms, transfers of powers, and the growing authority of the Roman Emperors. Even so, its members retain varying degrees of influence and prestige."
+ SEVEN_HOUSES_BUTTON:0 "#T The Great Houses#"
+ SEVEN_HOUSES_SUB_HEADING:0 "The Seven Houses"
+ SEVEN_HOUSES_SHAH:0 "The Shahanshah"
+ SEVEN_HOUSES_STRENGTH:0 "[great_house_strength|E]"
+ SEVEN_HOUSES_FAVOR:0 "[great_house_favor|E]"
+ 
+ trade_button_tooltip:0 "#T Inspect Trade Node#!"
+ monuments_button_tooltip:0 "#T Commission Monument#!"
